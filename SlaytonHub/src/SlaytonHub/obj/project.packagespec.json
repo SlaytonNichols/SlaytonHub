@@ -1,0 +1,50 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/SlaytonHub.csproj",
+    "projectName": "SlaytonHub",
+    "projectPath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/SlaytonHub.csproj",
+    "outputPath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "Amazon.Lambda.AspNetCoreServer": {
+          "target": "Package",
+          "version": "[4.0.0, )"
+        },
+        "AspNetCore.Mvc.Routes.DebuggingLoggerMiddleware": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
