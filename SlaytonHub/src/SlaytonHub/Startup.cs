@@ -36,7 +36,7 @@ namespace SlaytonHub
                 .AddRazorPagesOptions(options =>
                 {
                     options.Conventions
-                        .AddAreaPageRoute("App", "/Areas/App/Index", "/");
+                        .AddAreaPageRoute("Template", "/Areas/Template/Index", "/template");
                 })
                 .SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
         }

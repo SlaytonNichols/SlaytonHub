@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace SlaytonHub.Areas.Pages.UI
+namespace SlaytonHub.Areas.Template.Pages.UI
 {
     public class ButtonsModel : PageModel
     {

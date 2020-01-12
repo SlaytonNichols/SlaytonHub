@@ -1,12 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace SlaytonHub.Areas.App
+namespace SlaytonHub.Pages
 {
-    public class IndexModel : PageModel
+    public class PrivacyModel : PageModel
     {
         public void OnGet()
         {
-
         }
     }
 }

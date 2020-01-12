@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace SlaytonHub.Areas.Pages.Tables
+namespace SlaytonHub.Areas.Template.Pages.Tables
 {
     public class Simple : PageModel
     {

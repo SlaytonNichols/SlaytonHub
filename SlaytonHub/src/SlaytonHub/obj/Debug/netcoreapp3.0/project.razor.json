@@ -14838,13 +14838,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Pages/Shared/_LayoutSlaytonHub.cshtml",
+      "TargetPath": "Pages/Shared/_LayoutSlaytonHub.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Tables/Simple.cshtml",
       "TargetPath": "Areas/Template/Pages/Tables/Simple.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_HeaderPartial.cshtml",
-      "TargetPath": "Areas/App/Pages/Shared/_HeaderPartial.cshtml",
+      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Pages/Shared/_HeaderPartial.cshtml",
+      "TargetPath": "Pages/Shared/_HeaderPartial.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14870,6 +14875,11 @@
     {
       "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_HeaderPartial.cshtml",
       "TargetPath": "Areas/Template/Pages/Shared/_HeaderPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Pages/Shared/_ScriptsPartial.cshtml",
+      "TargetPath": "Pages/Shared/_ScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14903,13 +14913,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_LayoutBoxed.cshtml",
-      "TargetPath": "Areas/Template/Pages/Shared/_LayoutBoxed.cshtml",
+      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Pages/Privacy.cshtml",
+      "TargetPath": "Pages/Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_LayoutSlaytonHub.cshtml",
-      "TargetPath": "Areas/App/Pages/Shared/_LayoutSlaytonHub.cshtml",
+      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_LayoutBoxed.cshtml",
+      "TargetPath": "Areas/Template/Pages/Shared/_LayoutBoxed.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14938,23 +14948,18 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_CookieConsentPartial.cshtml",
-      "TargetPath": "Areas/App/Pages/Shared/_CookieConsentPartial.cshtml",
+      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Pages/Error.cshtml",
+      "TargetPath": "Pages/Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_NavbarRightMenuPartial.cshtml",
-      "TargetPath": "Areas/App/Pages/Shared/_NavbarRightMenuPartial.cshtml",
+      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages/Shared/_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_LayoutCollapsed.cshtml",
       "TargetPath": "Areas/Template/Pages/Shared/_LayoutCollapsed.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/Components/InfoBox/Default.cshtml",
-      "TargetPath": "Areas/App/Pages/Shared/Components/InfoBox/Default.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14968,13 +14973,18 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_ScriptsPartial.cshtml",
-      "TargetPath": "Areas/App/Pages/Shared/_ScriptsPartial.cshtml",
+      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Pages/Shared/_NavbarRightMenuPartial.cshtml",
+      "TargetPath": "Pages/Shared/_NavbarRightMenuPartial.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/_ViewImports.cshtml",
       "TargetPath": "_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Pages/Shared/_SidebarPartial.cshtml",
+      "TargetPath": "Pages/Shared/_SidebarPartial.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15003,16 +15013,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_HeadPartial.cshtml",
-      "TargetPath": "Areas/App/Pages/Shared/_HeadPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_Layout.cshtml",
-      "TargetPath": "Areas/App/Pages/Shared/_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_ScriptsPartial.cshtml",
       "TargetPath": "Areas/Template/Pages/Shared/_ScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -15020,6 +15020,11 @@
     {
       "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Mailbox/ReadMail.cshtml",
       "TargetPath": "Areas/Template/Pages/Mailbox/ReadMail.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages/Shared/_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15048,6 +15053,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Pages/Shared/_HeadPartial.cshtml",
+      "TargetPath": "Pages/Shared/_HeadPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_NavbarRightMenuPartial.cshtml",
       "TargetPath": "Areas/Template/Pages/Shared/_NavbarRightMenuPartial.cshtml",
       "FileKind": "mvc"
@@ -15058,18 +15068,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Areas/App/Pages/Shared/_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Layout/CollapsedSidebar.cshtml",
       "TargetPath": "Areas/Template/Pages/Layout/CollapsedSidebar.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Privacy.cshtml",
-      "TargetPath": "Areas/App/Pages/Privacy.cshtml",
+      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Pages/Shared/_CookieConsentPartial.cshtml",
+      "TargetPath": "Pages/Shared/_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15078,8 +15083,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Pages/Shared/Components/InfoBox/Default.cshtml",
+      "TargetPath": "Pages/Shared/Components/InfoBox/Default.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Examples/Error404.cshtml",
       "TargetPath": "Areas/Template/Pages/Examples/Error404.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Pages/Index.cshtml",
+      "TargetPath": "Pages/Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15090,21 +15105,6 @@
     {
       "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_HeadPartial.cshtml",
       "TargetPath": "Areas/Template/Pages/Shared/_HeadPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Error.cshtml",
-      "TargetPath": "Areas/App/Pages/Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Index.cshtml",
-      "TargetPath": "Areas/App/Pages/Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_SidebarPartial.cshtml",
-      "TargetPath": "Areas/App/Pages/Shared/_SidebarPartial.cshtml",
       "FileKind": "mvc"
     },
     {

@@ -3007,5 +3007,6 @@
     </ItemGroup>
     <ItemGroup>
       <Folder Include="Areas\Template" />
+      <Folder Include="Pages" />
     </ItemGroup>
 </Project>
