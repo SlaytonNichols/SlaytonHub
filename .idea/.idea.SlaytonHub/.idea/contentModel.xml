@@ -9,32 +9,6 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="SlaytonHub/src/SlaytonHub" t="IncludeRecursive">
         <e p="Areas" t="Include">
-          <e p="App" t="Include">
-            <e p="Pages" t="Include">
-              <e p="Error.cshtml" t="Include" />
-              <e p="Error.cshtml.cs" t="Include" />
-              <e p="Index.cshtml" t="Include" />
-              <e p="Index.cshtml.cs" t="Include" />
-              <e p="Privacy.cshtml" t="Include" />
-              <e p="Privacy.cshtml.cs" t="Include" />
-              <e p="Shared" t="Include">
-                <e p="Components" t="Include">
-                  <e p="InfoBox" t="Include">
-                    <e p="Default.cshtml" t="Include" />
-                  </e>
-                </e>
-                <e p="_CookieConsentPartial.cshtml" t="Include" />
-                <e p="_HeadPartial.cshtml" t="Include" />
-                <e p="_HeaderPartial.cshtml" t="Include" />
-                <e p="_Layout.cshtml" t="Include" />
-                <e p="_LayoutSlaytonHub.cshtml" t="Include" />
-                <e p="_NavbarRightMenuPartial.cshtml" t="Include" />
-                <e p="_ScriptsPartial.cshtml" t="Include" />
-                <e p="_SidebarPartial.cshtml" t="Include" />
-                <e p="_ValidationScriptsPartial.cshtml" t="Include" />
-              </e>
-            </e>
-          </e>
           <e p="Template" t="Include">
             <e p="Pages" t="Include">
               <e p="Charts" t="Include">
@@ -111,10 +85,42 @@
             </e>
           </e>
         </e>
+        <e p="Data" t="Include">
+          <e p="IRepo.cs" t="Include" />
+          <e p="Repo.cs" t="Include" />
+        </e>
+        <e p="Helpers" t="Include">
+          <e p="GetRdsConnection.cs" t="Include" />
+          <e p="SeceretHelper.cs" t="Include" />
+        </e>
         <e p="LambdaEntryPoint.cs" t="Include" />
         <e p="LocalEntryPoint.cs" t="Include" />
         <e p="Model" t="Include">
           <e p="InfoBoxModel.cs" t="Include" />
+        </e>
+        <e p="Pages" t="Include">
+          <e p="Error.cshtml" t="Include" />
+          <e p="Error.cshtml.cs" t="Include" />
+          <e p="Index.cshtml" t="Include" />
+          <e p="Index.cshtml.cs" t="Include" />
+          <e p="Privacy.cshtml" t="Include" />
+          <e p="Privacy.cshtml.cs" t="Include" />
+          <e p="Shared" t="Include">
+            <e p="Components" t="Include">
+              <e p="InfoBox" t="Include">
+                <e p="Default.cshtml" t="Include" />
+              </e>
+            </e>
+            <e p="_CookieConsentPartial.cshtml" t="Include" />
+            <e p="_HeadPartial.cshtml" t="Include" />
+            <e p="_HeaderPartial.cshtml" t="Include" />
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="_LayoutSlaytonHub.cshtml" t="Include" />
+            <e p="_NavbarRightMenuPartial.cshtml" t="Include" />
+            <e p="_ScriptsPartial.cshtml" t="Include" />
+            <e p="_SidebarPartial.cshtml" t="Include" />
+            <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+          </e>
         </e>
         <e p="Readme.md" t="Include" />
         <e p="SlaytonHub.csproj" t="IncludeRecursive" />
@@ -143,7 +149,7 @@
         <e p="libman.json" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="netcoreapp3.0" t="Include">
+            <e p="netcoreapp2.1" t="Include">
               <e p="SlaytonHub.AssemblyInfo.cs" t="Include" />
               <e p="SlaytonHub.RazorAssemblyInfo.cs" t="Include" />
             </e>

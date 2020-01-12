@@ -99,3 +99,16 @@
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_ScriptsPartial.cshtml.g.cs
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_SidebarPartial.cshtml.g.cs
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/AWSSDK.Core.dll
+/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/AWSSDK.RDS.dll
+/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/BouncyCastle.Crypto.dll
+/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/Dapper.dll
+/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/Google.Protobuf.dll
+/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/MySql.Data.dll
+/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/Renci.SshNet.dll
+/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/SshNet.Security.Cryptography.dll
+/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/System.Resources.Extensions.dll
+/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
+/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
