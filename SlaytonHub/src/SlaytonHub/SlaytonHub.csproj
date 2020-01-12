@@ -3005,4 +3005,7 @@
     <ItemGroup>
       <_RazorComponentDeclarationAssembly Remove="obj\Debug\netcoreapp3.0\RazorDeclaration\SlaytonHub.dll" />
     </ItemGroup>
+    <ItemGroup>
+      <Folder Include="Areas\Template" />
+    </ItemGroup>
 </Project>

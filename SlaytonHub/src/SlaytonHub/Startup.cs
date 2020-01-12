@@ -32,7 +32,9 @@ namespace SlaytonHub
             });
 
 
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
+            services.AddMvc()
+                .AddRazorPagesOptions(options => { options.Conventions.AddAreaPageRoute("App", "/Areas/App/Index", ""); })
+                .SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

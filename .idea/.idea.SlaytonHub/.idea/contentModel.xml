@@ -4,95 +4,117 @@
     <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
     <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
     <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
-    <e p="$USER_HOME$/.Rider2018.3/system/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/.Rider2018.3/system/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_SlaytonHub.1571838978.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_SlaytonHub.1571838978.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="SlaytonHub/src/SlaytonHub" t="IncludeRecursive">
+        <e p="Areas" t="Include">
+          <e p="App" t="Include">
+            <e p="Pages" t="Include">
+              <e p="Calendar.cshtml" t="Include" />
+              <e p="Error.cshtml" t="Include" />
+              <e p="Error.cshtml.cs" t="Include" />
+              <e p="Index.cshtml" t="Include" />
+              <e p="Index.cshtml.cs" t="Include" />
+              <e p="Privacy.cshtml" t="Include" />
+              <e p="Privacy.cshtml.cs" t="Include" />
+              <e p="Shared" t="Include">
+                <e p="Components" t="Include">
+                  <e p="InfoBox" t="Include">
+                    <e p="Default.cshtml" t="Include" />
+                  </e>
+                </e>
+                <e p="_CookieConsentPartial.cshtml" t="Include" />
+                <e p="_HeadPartial.cshtml" t="Include" />
+                <e p="_HeaderPartial.cshtml" t="Include" />
+                <e p="_Layout.cshtml" t="Include" />
+                <e p="_LayoutSlaytonHub.cshtml" t="Include" />
+                <e p="_ScriptsPartial.cshtml" t="Include" />
+                <e p="_SidebarPartial.cshtml" t="Include" />
+                <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Template" t="Include">
+            <e p="Pages" t="Include">
+              <e p="Charts" t="Include">
+                <e p="ChartJs.cshtml" t="Include" />
+                <e p="Flot.cshtml" t="Include" />
+                <e p="Inline.cshtml" t="Include" />
+                <e p="Morris.cshtml" t="Include" />
+              </e>
+              <e p="Examples" t="Include">
+                <e p="Blank.cshtml" t="Include" />
+                <e p="Error404.cshtml" t="Include" />
+                <e p="Error500.cshtml" t="Include" />
+                <e p="Invoice.cshtml" t="Include" />
+                <e p="Pace.cshtml" t="Include" />
+                <e p="Profile.cshtml" t="Include" />
+              </e>
+              <e p="Forms" t="Include">
+                <e p="Advanced.cshtml" t="Include" />
+                <e p="General.cshtml" t="Include" />
+                <e p="General.cshtml.cs" t="Include" />
+              </e>
+              <e p="Index.cshtml" t="Include" />
+              <e p="Index.cshtml.cs" t="Include" />
+              <e p="Layout" t="Include">
+                <e p="Boxed.cshtml" t="Include" />
+                <e p="CollapsedSidebar.cshtml" t="Include" />
+                <e p="Fixed.cshtml" t="Include" />
+                <e p="Topnav.cshtml" t="Include" />
+              </e>
+              <e p="Mailbox" t="Include">
+                <e p="Mailbox.cshtml" t="Include" />
+                <e p="ReadMail.cshtml" t="Include" />
+                <e p="compose.cshtml" t="Include" />
+              </e>
+              <e p="Shared" t="Include">
+                <e p="Components" t="Include">
+                  <e p="InfoBox" t="Include">
+                    <e p="Default.cshtml" t="Include" />
+                  </e>
+                </e>
+                <e p="_ControlSidebarPartial.cshtml" t="Include" />
+                <e p="_CookieConsentPartial.cshtml" t="Include" />
+                <e p="_HeadPartial.cshtml" t="Include" />
+                <e p="_HeaderPartial.cshtml" t="Include" />
+                <e p="_Layout.cshtml" t="Include" />
+                <e p="_LayoutBoxed.cshtml" t="Include" />
+                <e p="_LayoutCollapsed.cshtml" t="Include" />
+                <e p="_LayoutFixed.cshtml" t="Include" />
+                <e p="_LayoutSlaytonHub.cshtml" t="Include" />
+                <e p="_LayoutTopNav.cshtml" t="Include" />
+                <e p="_NavbarRightMenuPartial.cshtml" t="Include" />
+                <e p="_ScriptsPartial.cshtml" t="Include" />
+                <e p="_SidebarPartial.cshtml" t="Include" />
+                <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+              </e>
+              <e p="Tables" t="Include">
+                <e p="Data.cshtml" t="Include" />
+                <e p="Data.cshtml.cs" t="Include" />
+                <e p="Simple.cshtml" t="Include" />
+                <e p="Simple.cshtml.cs" t="Include" />
+              </e>
+              <e p="UI" t="Include">
+                <e p="Buttons.cshtml" t="Include" />
+                <e p="Buttons.cshtml.cs" t="Include" />
+                <e p="General.cshtml" t="Include" />
+                <e p="Icons.cshtml" t="Include" />
+                <e p="Modals.cshtml" t="Include" />
+                <e p="Sliders.cshtml" t="Include" />
+                <e p="Timeline.cshtml" t="Include" />
+              </e>
+              <e p="_ViewImports.cshtml" t="Include" />
+              <e p="widgets.cshtml" t="Include" />
+              <e p="widgets.cshtml.cs" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="LambdaEntryPoint.cs" t="Include" />
         <e p="LocalEntryPoint.cs" t="Include" />
         <e p="Model" t="Include">
           <e p="InfoBoxModel.cs" t="Include" />
-        </e>
-        <e p="Pages" t="Include">
-          <e p="Calendar.cshtml" t="Include" />
-          <e p="Charts" t="Include">
-            <e p="ChartJs.cshtml" t="Include" />
-            <e p="Flot.cshtml" t="Include" />
-            <e p="Inline.cshtml" t="Include" />
-            <e p="Morris.cshtml" t="Include" />
-          </e>
-          <e p="Error.cshtml" t="Include" />
-          <e p="Error.cshtml.cs" t="Include" />
-          <e p="Examples" t="Include">
-            <e p="Blank.cshtml" t="Include" />
-            <e p="Error404.cshtml" t="Include" />
-            <e p="Error500.cshtml" t="Include" />
-            <e p="Invoice.cshtml" t="Include" />
-            <e p="Pace.cshtml" t="Include" />
-            <e p="Profile.cshtml" t="Include" />
-          </e>
-          <e p="Forms" t="Include">
-            <e p="Advanced.cshtml" t="Include" />
-            <e p="General.cshtml" t="Include" />
-            <e p="General.cshtml.cs" t="Include" />
-          </e>
-          <e p="Index.cshtml" t="Include" />
-          <e p="Index.cshtml.cs" t="Include" />
-          <e p="Index2.cshtml" t="Include" />
-          <e p="Index2.cshtml.cs" t="Include" />
-          <e p="Layout" t="Include">
-            <e p="Boxed.cshtml" t="Include" />
-            <e p="CollapsedSidebar.cshtml" t="Include" />
-            <e p="Fixed.cshtml" t="Include" />
-            <e p="Topnav.cshtml" t="Include" />
-          </e>
-          <e p="Mailbox" t="Include">
-            <e p="Mailbox.cshtml" t="Include" />
-            <e p="ReadMail.cshtml" t="Include" />
-            <e p="compose.cshtml" t="Include" />
-          </e>
-          <e p="Privacy.cshtml" t="Include" />
-          <e p="Privacy.cshtml.cs" t="Include" />
-          <e p="Shared" t="Include">
-            <e p="Components" t="Include">
-              <e p="InfoBox" t="Include">
-                <e p="Default.cshtml" t="Include" />
-              </e>
-            </e>
-            <e p="_ControlSidebarPartial.cshtml" t="Include" />
-            <e p="_CookieConsentPartial.cshtml" t="Include" />
-            <e p="_HeadPartial.cshtml" t="Include" />
-            <e p="_HeaderPartial.cshtml" t="Include" />
-            <e p="_Layout.cshtml" t="Include" />
-            <e p="_LayoutBoxed.cshtml" t="Include" />
-            <e p="_LayoutCollapsed.cshtml" t="Include" />
-            <e p="_LayoutFixed.cshtml" t="Include" />
-            <e p="_LayoutSlaytonHub.cshtml" t="Include" />
-            <e p="_LayoutTopNav.cshtml" t="Include" />
-            <e p="_NavbarRightMenuPartial.cshtml" t="Include" />
-            <e p="_ScriptsPartial.cshtml" t="Include" />
-            <e p="_SidebarPartial.cshtml" t="Include" />
-            <e p="_ValidationScriptsPartial.cshtml" t="Include" />
-          </e>
-          <e p="Tables" t="Include">
-            <e p="Data.cshtml" t="Include" />
-            <e p="Data.cshtml.cs" t="Include" />
-            <e p="Simple.cshtml" t="Include" />
-            <e p="Simple.cshtml.cs" t="Include" />
-          </e>
-          <e p="UI" t="Include">
-            <e p="Buttons.cshtml" t="Include" />
-            <e p="Buttons.cshtml.cs" t="Include" />
-            <e p="General.cshtml" t="Include" />
-            <e p="Icons.cshtml" t="Include" />
-            <e p="Modals.cshtml" t="Include" />
-            <e p="Sliders.cshtml" t="Include" />
-            <e p="Timeline.cshtml" t="Include" />
-          </e>
-          <e p="_ViewImports.cshtml" t="Include" />
-          <e p="_ViewStart.cshtml" t="Include" />
-          <e p="widgets.cshtml" t="Include" />
-          <e p="widgets.cshtml.cs" t="Include" />
         </e>
         <e p="Readme.md" t="Include" />
         <e p="SlaytonHub.csproj" t="IncludeRecursive" />
@@ -111,6 +133,8 @@
         <e p="ViewComponents" t="Include">
           <e p="InfoBoxViewComponent.cs" t="Include" />
         </e>
+        <e p="_ViewImports.cshtml" t="Include" />
+        <e p="_ViewStart.cshtml" t="Include" />
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="aws-lambda-tools-defaults.json" t="Include" />
@@ -121,6 +145,7 @@
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
               <e p="SlaytonHub.AssemblyInfo.cs" t="Include" />
+              <e p="SlaytonHub.RazorAssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
