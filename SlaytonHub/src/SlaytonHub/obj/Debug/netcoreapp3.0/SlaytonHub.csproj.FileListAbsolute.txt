@@ -41,7 +41,6 @@
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.Views.pdb
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.csproj.CopyComplete
-/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/App/Pages/Calendar.cshtml.g.cs
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/App/Pages/Error.cshtml.g.cs
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/App/Pages/Index.cshtml.g.cs
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/App/Pages/Privacy.cshtml.g.cs
@@ -82,7 +81,6 @@
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/Template/Pages/Shared/_LayoutBoxed.cshtml.g.cs
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/Template/Pages/Shared/_LayoutCollapsed.cshtml.g.cs
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/Template/Pages/Shared/_LayoutFixed.cshtml.g.cs
-/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/Template/Pages/Shared/_LayoutSlaytonHub.cshtml.g.cs
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/Template/Pages/Shared/_LayoutTopNav.cshtml.g.cs
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/Template/Pages/Shared/_NavbarRightMenuPartial.cshtml.g.cs
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/Template/Pages/Shared/_ScriptsPartial.cshtml.g.cs
@@ -99,3 +97,5 @@
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/Template/Pages/widgets.cshtml.g.cs
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/Template/Pages/_ViewImports.cshtml.g.cs
 /home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/Template/Pages/Index.cshtml.g.cs
+/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/App/Pages/Shared/_NavbarRightMenuPartial.cshtml.g.cs
+/home/slayton/Projects/SlaytonHub/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/Template/Pages/Shared/_LayoutAdminLTE.cshtml.g.cs

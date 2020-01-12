@@ -11,7 +11,6 @@
         <e p="Areas" t="Include">
           <e p="App" t="Include">
             <e p="Pages" t="Include">
-              <e p="Calendar.cshtml" t="Include" />
               <e p="Error.cshtml" t="Include" />
               <e p="Error.cshtml.cs" t="Include" />
               <e p="Index.cshtml" t="Include" />
@@ -29,6 +28,7 @@
                 <e p="_HeaderPartial.cshtml" t="Include" />
                 <e p="_Layout.cshtml" t="Include" />
                 <e p="_LayoutSlaytonHub.cshtml" t="Include" />
+                <e p="_NavbarRightMenuPartial.cshtml" t="Include" />
                 <e p="_ScriptsPartial.cshtml" t="Include" />
                 <e p="_SidebarPartial.cshtml" t="Include" />
                 <e p="_ValidationScriptsPartial.cshtml" t="Include" />
@@ -80,10 +80,10 @@
                 <e p="_HeadPartial.cshtml" t="Include" />
                 <e p="_HeaderPartial.cshtml" t="Include" />
                 <e p="_Layout.cshtml" t="Include" />
+                <e p="_LayoutAdminLTE.cshtml" t="Include" />
                 <e p="_LayoutBoxed.cshtml" t="Include" />
                 <e p="_LayoutCollapsed.cshtml" t="Include" />
                 <e p="_LayoutFixed.cshtml" t="Include" />
-                <e p="_LayoutSlaytonHub.cshtml" t="Include" />
                 <e p="_LayoutTopNav.cshtml" t="Include" />
                 <e p="_NavbarRightMenuPartial.cshtml" t="Include" />
                 <e p="_ScriptsPartial.cshtml" t="Include" />

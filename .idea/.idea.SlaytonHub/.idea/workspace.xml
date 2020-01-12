@@ -2,126 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6b7cdf4-3258-47c9-8a3a-1f33ccf6e8ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_NavbarRightMenuPartial.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Calendar.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Charts/ChartJs.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Charts/Flot.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Charts/Inline.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Charts/Morris.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Error.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Error.cshtml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Examples/Blank.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Examples/Error404.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Examples/Error500.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Examples/Invoice.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Examples/Pace.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Examples/Profile.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Forms/Advanced.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Forms/General.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Forms/General.cshtml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Index.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Index.cshtml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Index2.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Index2.cshtml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Layout/Boxed.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Layout/CollapsedSidebar.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Layout/Fixed.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Layout/Topnav.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Mailbox/Mailbox.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Mailbox/ReadMail.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Mailbox/compose.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Privacy.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Privacy.cshtml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/Components/InfoBox/Default.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_ControlSidebarPartial.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_CookieConsentPartial.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_HeadPartial.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_HeaderPartial.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_Layout.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_LayoutBoxed.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_LayoutCollapsed.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_LayoutFixed.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_LayoutSlaytonHub.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_LayoutTopNav.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_NavbarRightMenuPartial.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_ScriptsPartial.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_SidebarPartial.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_ValidationScriptsPartial.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Tables/Data.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Tables/Data.cshtml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Tables/Simple.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Tables/Simple.cshtml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/UI/Buttons.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/UI/Buttons.cshtml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/UI/General.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/UI/Icons.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/UI/Modals.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/UI/Sliders.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/UI/Timeline.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/_ViewImports.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/_ViewStart.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/widgets.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/widgets.cshtml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/SlaytonHub.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/SlaytonHub.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Calendar.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_HeaderPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_HeaderPartial.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_LayoutSlaytonHub.cshtml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Startup.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/SlaytonHub.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/SlaytonHub.Views.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/SlaytonHub.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/SlaytonHub.Views.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/SlaytonHub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/SlaytonHub.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/SlaytonHub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/SlaytonHub.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Calendar.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Charts/ChartJs.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Charts/Flot.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Charts/Inline.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Charts/Morris.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Error.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Examples/Blank.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Examples/Error404.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Examples/Error500.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Examples/Invoice.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Examples/Pace.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Examples/Profile.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Forms/Advanced.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Forms/General.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Index.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Index2.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Layout/Boxed.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Layout/CollapsedSidebar.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Layout/Fixed.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Layout/Topnav.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Mailbox/Mailbox.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Mailbox/ReadMail.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Mailbox/compose.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Privacy.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/Components/InfoBox/Default.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_ControlSidebarPartial.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_CookieConsentPartial.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_HeadPartial.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_HeaderPartial.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_Layout.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_LayoutBoxed.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_LayoutCollapsed.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_LayoutFixed.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_LayoutSlaytonHub.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_LayoutTopNav.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_NavbarRightMenuPartial.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_ScriptsPartial.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_SidebarPartial.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Tables/Data.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/Tables/Simple.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/UI/Buttons.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/UI/General.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/UI/Icons.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/UI/Modals.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/UI/Sliders.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/UI/Timeline.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewImports.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewStart.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Pages/widgets.cshtml.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.RazorAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.RazorAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/App/Pages/Calendar.cshtml.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/App/Pages/Shared/_HeaderPartial.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/App/Pages/Shared/_HeaderPartial.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/Razor/Areas/Template/Pages/Shared/_LayoutSlaytonHub.cshtml.g.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.RazorCoreGenerate.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.Views.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.Views.pdb" afterDir="false" />
@@ -130,7 +24,6 @@
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/project.razor.json" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/project.razor.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,11 +35,16 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/LocalEntryPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/libman.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/LambdaEntryPoint.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Tables/Data.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_ControlSidebarPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_LayoutTopNav.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A66F52B6-4A56-4D12-A132-803FD98CD4EE/53/2fdd78be/PageModel.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_HeadPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_NavbarRightMenuPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_SidebarPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_HeaderPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_CookieConsentPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_LayoutSlaytonHub.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_HeaderPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
@@ -156,7 +54,9 @@
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Forms/General.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Forms/General.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_NavbarRightMenuPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/UI/Buttons.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_LayoutAdminLTE.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/UI/General.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/UI/Buttons.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
@@ -203,10 +103,13 @@
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Pages/Tables/Simple.cshtml" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Pages/Tables/Data.cshtml" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Pages/Forms/General.cshtml" />
-        <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Startup.cs" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_SidebarPartial.cshtml" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_LayoutSlaytonHub.cshtml" />
+        <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/_ViewStart.cshtml" />
+        <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_LayoutTopNav.cshtml" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_HeaderPartial.cshtml" />
+        <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/App/Pages/Shared/_NavbarRightMenuPartial.cshtml" />
+        <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Startup.cs" />
       </list>
     </option>
   </component>
@@ -230,7 +133,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
@@ -313,7 +216,7 @@
       <workItem from="1578770604623" duration="3021000" />
       <workItem from="1578773738320" duration="1959000" />
       <workItem from="1578776493997" duration="483000" />
-      <workItem from="1578798038959" duration="2524000" />
+      <workItem from="1578798038959" duration="6436000" />
     </task>
     <servers />
   </component>
@@ -334,22 +237,26 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="257" key="GridCell.Tab.0.bottom" timestamp="1578801663529">
+    <state width="1874" height="257" key="GridCell.Tab.0.bottom" timestamp="1578805097610">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="257" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1578801663529" />
-    <state width="1874" height="257" key="GridCell.Tab.0.center" timestamp="1578801663528">
+    <state width="1874" height="257" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1578805097610" />
+    <state width="1874" height="257" key="GridCell.Tab.0.center" timestamp="1578805097609">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="257" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1578801663528" />
-    <state width="1874" height="257" key="GridCell.Tab.0.left" timestamp="1578801663527">
+    <state width="1874" height="257" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1578805097609" />
+    <state width="1874" height="257" key="GridCell.Tab.0.left" timestamp="1578805097609">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="257" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1578801663527" />
-    <state width="1874" height="257" key="GridCell.Tab.0.right" timestamp="1578801663529">
+    <state width="1874" height="257" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1578805097609" />
+    <state width="1874" height="257" key="GridCell.Tab.0.right" timestamp="1578805097610">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="257" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1578801663529" />
+    <state width="1874" height="257" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1578805097610" />
+    <state x="449" y="155" key="SettingsEditor" timestamp="1578804951496">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="449" y="155" key="SettingsEditor/0.27.1920.988@0.27.1920.988" timestamp="1578804951496" />
     <state x="596" y="251" width="728" height="538" key="find.popup" timestamp="1578790061621">
       <screen x="0" y="27" width="1920" height="988" />
     </state>

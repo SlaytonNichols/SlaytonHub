@@ -33,7 +33,11 @@ namespace SlaytonHub
 
 
             services.AddMvc()
-                .AddRazorPagesOptions(options => { options.Conventions.AddAreaPageRoute("App", "/Areas/App/Index", ""); })
+                .AddRazorPagesOptions(options =>
+                {
+                    options.Conventions
+                        .AddAreaPageRoute("App", "/Areas/App/Index", "/");
+                })
                 .SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
         }
 
@@ -55,10 +59,7 @@ namespace SlaytonHub
             app.UseCookiePolicy();
 
             app.UseRouting();
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.MapRazorPages();
-            });
+            app.UseEndpoints(endpoints => { endpoints.MapRazorPages(); });
         }
     }
 }
