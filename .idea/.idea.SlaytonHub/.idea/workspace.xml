@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6b7cdf4-3258-47c9-8a3a-1f33ccf6e8ce" name="Default Changelist" comment="Revert back to 2.1">
-      <change afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Data/IRepo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Data/Repo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/buildspec.yml" afterDir="false" />
+    <list default="true" id="d6b7cdf4-3258-47c9-8a3a-1f33ccf6e8ce" name="Default Changelist" comment="move buildspec">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_SidebarPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_SidebarPartial.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_NavbarRightMenuPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_NavbarRightMenuPartial.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_SidebarPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_SidebarPartial.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/aws-lambda-tools-defaults.json" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/aws-lambda-tools-defaults.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/aws-lambda-tools-defaults.json" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/aws-lambda-tools-defaults.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/SlaytonHub.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/SlaytonHub.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/serverless.template" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/serverless.template" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +151,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AdminLTE2.RazorPages-master/wwwroot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -262,7 +251,7 @@
       <workItem from="1578776493997" duration="483000" />
       <workItem from="1578798038959" duration="6436000" />
       <workItem from="1578837475968" duration="2493000" />
-      <workItem from="1578843576846" duration="19662000" />
+      <workItem from="1578843576846" duration="20283000" />
     </task>
     <task id="LOCAL-00001" summary="Revert back to 2.1">
       <created>1578861805160</created>
@@ -271,7 +260,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578861805160</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add buildspec.yml">
+      <created>1578874072364</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578874072364</updated>
+    </task>
+    <task id="LOCAL-00003" summary="move buildspec">
+      <created>1578874458238</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578874458238</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,7 +297,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert back to 2.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert back to 2.1" />
+    <MESSAGE value="Add buildspec.yml" />
+    <MESSAGE value="move buildspec" />
+    <option name="LAST_COMMIT_MESSAGE" value="move buildspec" />
   </component>
   <component name="WindowStateProjectService">
     <state x="555" y="181" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578856737043">
@@ -305,25 +310,29 @@
       <screen x="0" y="27" width="1920" height="988" />
     </state>
     <state x="600" y="325" width="710" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578861859886" />
-    <state width="1874" height="257" key="GridCell.Tab.0.bottom" timestamp="1578862393978">
+    <state x="743" y="278" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578874672316">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="257" key="GridCell.Tab.0.bottom/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578862393978" />
+    <state x="743" y="278" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578874672316" />
+    <state width="1874" height="257" key="GridCell.Tab.0.bottom" timestamp="1578874679277">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="257" key="GridCell.Tab.0.bottom/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578874679277" />
     <state width="1874" height="257" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1578805097610" />
-    <state width="1874" height="257" key="GridCell.Tab.0.center" timestamp="1578862393978">
+    <state width="1874" height="257" key="GridCell.Tab.0.center" timestamp="1578874679277">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="257" key="GridCell.Tab.0.center/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578862393978" />
+    <state width="1874" height="257" key="GridCell.Tab.0.center/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578874679277" />
     <state width="1874" height="257" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1578805097609" />
-    <state width="1874" height="257" key="GridCell.Tab.0.left" timestamp="1578862393977">
+    <state width="1874" height="257" key="GridCell.Tab.0.left" timestamp="1578874679276">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="257" key="GridCell.Tab.0.left/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578862393977" />
+    <state width="1874" height="257" key="GridCell.Tab.0.left/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578874679276" />
     <state width="1874" height="257" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1578805097609" />
-    <state width="1874" height="257" key="GridCell.Tab.0.right" timestamp="1578862393978">
+    <state width="1874" height="257" key="GridCell.Tab.0.right" timestamp="1578874679277">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="257" key="GridCell.Tab.0.right/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578862393978" />
+    <state width="1874" height="257" key="GridCell.Tab.0.right/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578874679277" />
     <state width="1874" height="257" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1578805097610" />
     <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1578854627248">
       <screen x="0" y="27" width="1920" height="988" />
@@ -333,10 +342,10 @@
       <screen x="0" y="27" width="1920" height="988" />
     </state>
     <state x="449" y="155" key="SettingsEditor/0.27.1920.988@0.27.1920.988" timestamp="1578804951496" />
-    <state x="555" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1578837519878">
+    <state x="555" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1578874468156">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state x="555" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578837519878" />
+    <state x="555" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578874468156" />
     <state x="624" y="202" width="662" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578854647976">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
