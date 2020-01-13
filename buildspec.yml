@@ -6,7 +6,7 @@ phases:
   pre_build:
     commands:
       - echo Restore started on `date`
-      - libman restore      - 
+      - libman restore 
       - dotnet restore SlaytonHub/src/SlaytonHub/SlaytonHub.csproj
   build:
     commands:
