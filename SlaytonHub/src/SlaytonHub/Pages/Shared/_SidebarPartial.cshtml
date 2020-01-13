@@ -1,7 +1,7 @@
 ﻿@functions{
     string IsActivePage(string page)
     {
-        var pageActual = Context.Request.RouteValues["page"].ToString();
+        var pageActual = Context.Request.Query["page"].ToString();
         return pageActual.ToLower().Contains(page.ToLower()) ? "active" : null;
     }
 }

@@ -1,35 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6b7cdf4-3258-47c9-8a3a-1f33ccf6e8ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="d6b7cdf4-3258-47c9-8a3a-1f33ccf6e8ce" name="Default Changelist" comment="Revert back to 2.1">
       <change afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Data/IRepo.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Data/Repo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Helpers/GetRdsConnection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/buildspec.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub.sln.DotSettings.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_SidebarPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_SidebarPartial.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_NavbarRightMenuPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_NavbarRightMenuPartial.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_SidebarPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_SidebarPartial.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/SlaytonHub.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/SlaytonHub.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Startup.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/aws-lambda-tools-defaults.json" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/aws-lambda-tools-defaults.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/SlaytonHub.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/SlaytonHub.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/SlaytonHub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/SlaytonHub.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/SlaytonHub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/SlaytonHub.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/aws-lambda-tools-defaults.json" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/bin/Debug/netcoreapp3.0/aws-lambda-tools-defaults.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/Debug/netcoreapp3.0/SlaytonHub.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/SlaytonHub.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/SlaytonHub.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/SlaytonHub.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/SlaytonHub.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/SlaytonHub.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/SlaytonHub.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/SlaytonHub.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/SlaytonHub.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/serverless.template" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/serverless.template" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +68,8 @@
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_SidebarPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_NavbarRightMenuPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Forms/General.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Helpers/GetRdsConnection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/wwwroot/lib/bootstrap/css/bootstrap-theme.min.css.map" root0="FORCE_HIGHLIGHTING" />
@@ -94,6 +80,8 @@
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/UI/Buttons.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Helpers/SeceretHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/wwwroot/lib/jquery/jquery.slim.min.map" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/wwwroot/lib/jquery/jquery.min.map" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Startup.cs" root0="FORCE_HIGHLIGHTING" />
@@ -120,7 +108,6 @@
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/libman.json" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_LayoutCollapsed.cshtml" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/widgets.cshtml" />
-        <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Index.cshtml" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Index2.cshtml" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_LayoutBoxed.cshtml" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_LayoutFixed.cshtml" />
@@ -152,6 +139,9 @@
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_SidebarPartial.cshtml" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_SidebarPartial.cshtml" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Startup.cs" />
+        <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Index.cshtml" />
+        <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_NavbarRightMenuPartial.cshtml" />
+        <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/buildspec.yml" />
       </list>
     </option>
   </component>
@@ -272,8 +262,16 @@
       <workItem from="1578776493997" duration="483000" />
       <workItem from="1578798038959" duration="6436000" />
       <workItem from="1578837475968" duration="2493000" />
-      <workItem from="1578843576846" duration="12955000" />
+      <workItem from="1578843576846" duration="19662000" />
     </task>
+    <task id="LOCAL-00001" summary="Revert back to 2.1">
+      <created>1578861805160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578861805160</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,30 +292,38 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert back to 2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert back to 2.1" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="555" y="181" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578856737043">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
     <state x="555" y="181" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578856737043" />
-    <state width="1874" height="257" key="GridCell.Tab.0.bottom" timestamp="1578860178115">
+    <state x="600" y="325" width="710" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578861859886">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="257" key="GridCell.Tab.0.bottom/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578860178115" />
+    <state x="600" y="325" width="710" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578861859886" />
+    <state width="1874" height="257" key="GridCell.Tab.0.bottom" timestamp="1578862393978">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="257" key="GridCell.Tab.0.bottom/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578862393978" />
     <state width="1874" height="257" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1578805097610" />
-    <state width="1874" height="257" key="GridCell.Tab.0.center" timestamp="1578860178115">
+    <state width="1874" height="257" key="GridCell.Tab.0.center" timestamp="1578862393978">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="257" key="GridCell.Tab.0.center/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578860178115" />
+    <state width="1874" height="257" key="GridCell.Tab.0.center/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578862393978" />
     <state width="1874" height="257" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1578805097609" />
-    <state width="1874" height="257" key="GridCell.Tab.0.left" timestamp="1578860178115">
+    <state width="1874" height="257" key="GridCell.Tab.0.left" timestamp="1578862393977">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="257" key="GridCell.Tab.0.left/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578860178115" />
+    <state width="1874" height="257" key="GridCell.Tab.0.left/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578862393977" />
     <state width="1874" height="257" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1578805097609" />
-    <state width="1874" height="257" key="GridCell.Tab.0.right" timestamp="1578860178115">
+    <state width="1874" height="257" key="GridCell.Tab.0.right" timestamp="1578862393978">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state width="1874" height="257" key="GridCell.Tab.0.right/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578860178115" />
+    <state width="1874" height="257" key="GridCell.Tab.0.right/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578862393978" />
     <state width="1874" height="257" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1578805097610" />
     <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1578854627248">
       <screen x="0" y="27" width="1920" height="988" />
@@ -335,10 +341,10 @@
       <screen x="0" y="27" width="1920" height="988" />
     </state>
     <state x="624" y="202" width="662" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578854647976" />
-    <state x="596" y="251" width="728" height="538" key="find.popup" timestamp="1578858514619">
+    <state x="596" y="251" width="728" height="538" key="find.popup" timestamp="1578870333626">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state x="596" y="251" width="728" height="538" key="find.popup/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578858514619" />
+    <state x="596" y="251" width="728" height="538" key="find.popup/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578870333626" />
     <state x="596" y="251" width="728" height="538" key="find.popup/0.27.1920.988@0.27.1920.988" timestamp="1578790061621" />
     <state x="624" y="237" key="run.anything.popup" timestamp="1578790219892">
       <screen x="0" y="27" width="1920" height="988" />

@@ -11,8 +11,8 @@
   "profile":"SlaytonsPersonal",
   "region" : "us-east-1",
   "configuration" : "Release",
-  "framework"     : "netcoreapp3.0",
+  "framework"     : "netcoreapp2.1",
   "s3-prefix"     : "SlaytonHub/",
   "template"      : "serverless.template",
-  "template-parameters" : ""
+  "template-parameters" : "-sb slaytonhub -sn SlaytonHub"
 }

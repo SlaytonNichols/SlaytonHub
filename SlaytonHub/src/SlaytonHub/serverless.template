@@ -13,7 +13,7 @@
 			"Type" : "AWS::Serverless::Function",
 			"Properties": {
 				"Handler": "SlaytonHub::SlaytonHub.LambdaEntryPoint::FunctionHandlerAsync",
-				"Runtime": "dotnetcore3.0",
+				"Runtime": "dotnetcore2.1",
 				"CodeUri": "",
 				"MemorySize": 512,
 				"Timeout": 30,
