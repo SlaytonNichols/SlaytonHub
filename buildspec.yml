@@ -6,6 +6,7 @@ phases:
   pre_build:
     commands:
       - echo Restore started on `date`
+      - dotnet tool install -g Microsoft.Web.LibraryManager.Cli
       - libman restore 
       - dotnet restore SlaytonHub/src/SlaytonHub/SlaytonHub.csproj
   build:
