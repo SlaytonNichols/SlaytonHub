@@ -11,12 +11,12 @@ phases:
       - export PATH="$PATH:/root/.dotnet/tools"
       - dotnet tool install -g Microsoft.Web.LibraryManager.Cli
       - dotnet tool install --global Amazon.Lambda.Tools --version 3.3.1
-      - dotnet restore SlaytonHub/src/SlaytonHub/SlaytonHub.csproj
+      - aws s3 cp SlayonHub/src/SlaytonHub/wwwroot/ s3://content-slaytonhub.s3.amazonaws.com/wwwroot/
   build:
     commands:
       - echo Build started on `date`
       - dotnet publish -c release -o ./build_output SlaytonHub/src/SlaytonHub/SlaytonHub.csproj
   post_build:
     commands:
-      - aws s3 cp SlayonHub/src/SlaytonHub/wwwroot/ s3://content-slaytonhub.s3.amazonaws.com/wwwroot/
+      - 
       
