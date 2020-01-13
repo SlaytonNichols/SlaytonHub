@@ -6,6 +6,8 @@ phases:
   pre_build:
     commands:
       - echo Restore started on `date`
+      - ls
+      - pwd
       - export PATH="$PATH:/root/.dotnet/tools"
       - dotnet tool install -g Microsoft.Web.LibraryManager.Cli
       - libman restore 
