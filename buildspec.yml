@@ -10,8 +10,6 @@ phases:
       - pwd
       - export PATH="$PATH:/root/.dotnet/tools"
       - dotnet tool install -g Microsoft.Web.LibraryManager.Cli
-      - cd SlaytonHub/SlayonHub/src/SlayonHub
-      - libman restore 
       - dotnet restore ./SlaytonHub.csproj
   build:
     commands:
@@ -19,4 +17,4 @@ phases:
       - dotnet publish -c release -o ./build_output SlaytonHub/src/SlaytonHub/SlaytonHub.csproj
   post_build:
     commands:
-      - aws s3 cp SlayonHub/src/SlaytonHub/wwwroot/ s3://content-slaytonhub.s3.amazonaws.com/wwwroot/
+      - aws s3 cp ~/SlayonHub/src/SlaytonHub/wwwroot/ s3://content-slaytonhub.s3.amazonaws.com/wwwroot/

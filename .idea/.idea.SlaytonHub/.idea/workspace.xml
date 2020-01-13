@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6b7cdf4-3258-47c9-8a3a-1f33ccf6e8ce" name="Default Changelist" comment="move buildspec">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d6b7cdf4-3258-47c9-8a3a-1f33ccf6e8ce" name="Default Changelist" comment="updates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,17 +208,7 @@
       <list>
         <serviceView>
           <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:SlaytonHub" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:SlaytonHub" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@5e5f3575" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </treeState>
         </serviceView>
@@ -252,6 +239,7 @@
       <workItem from="1578798038959" duration="6436000" />
       <workItem from="1578837475968" duration="2493000" />
       <workItem from="1578843576846" duration="20283000" />
+      <workItem from="1578879007457" duration="588000" />
     </task>
     <task id="LOCAL-00001" summary="Revert back to 2.1">
       <created>1578861805160</created>
@@ -274,7 +262,28 @@
       <option name="project" value="LOCAL" />
       <updated>1578874458238</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updates">
+      <created>1578879067761</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578879067761</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updates">
+      <created>1578879177035</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578879177035</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updates">
+      <created>1578879592776</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578879592776</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,7 +308,8 @@
     <MESSAGE value="Revert back to 2.1" />
     <MESSAGE value="Add buildspec.yml" />
     <MESSAGE value="move buildspec" />
-    <option name="LAST_COMMIT_MESSAGE" value="move buildspec" />
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
   <component name="WindowStateProjectService">
     <state x="555" y="181" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578856737043">
@@ -342,10 +352,10 @@
       <screen x="0" y="27" width="1920" height="988" />
     </state>
     <state x="449" y="155" key="SettingsEditor/0.27.1920.988@0.27.1920.988" timestamp="1578804951496" />
-    <state x="555" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1578879181094">
+    <state x="555" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1578879650713">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state x="555" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578879181094" />
+    <state x="555" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578879650713" />
     <state x="624" y="202" width="662" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578854647976">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
