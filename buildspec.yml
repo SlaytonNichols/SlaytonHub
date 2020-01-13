@@ -2,7 +2,7 @@ version: 0.2
 phases:
   install:      
     runtime-versions:
-      dotnet: 3.0
+      dotnet: 2.1
   pre_build:
     commands:
       - echo Restore started on `date`
@@ -10,6 +10,7 @@ phases:
       - pwd
       - export PATH="$PATH:/root/.dotnet/tools"
       - dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+      - cd Slayton
       - libman restore 
       - dotnet restore SlaytonHub/src/SlaytonHub/SlaytonHub.csproj
   build:
