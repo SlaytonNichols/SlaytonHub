@@ -8,11 +8,11 @@ phases:
     commands:
       - echo Restore started on `date`
       - libman restore      - 
-      - dotnet restore SlaytonHub.csproj
+      - dotnet restore SlaytonHub/src/SlaytonHub/SlaytonHub.csproj
   build:
     commands:
       - echo Build started on `date`
-      - dotnet publish -c release -o ./build_output SlaytonHub.csproj
+      - dotnet publish -c release -o ./build_output SlaytonHub/src/SlaytonHub/SlaytonHub.csproj
   post_build:
     commands:
       - aws s3 cp SlayonHub/src/SlaytonHub/wwwroot/ s3://content-slaytonhub.s3.amazonaws.com/wwwroot/
