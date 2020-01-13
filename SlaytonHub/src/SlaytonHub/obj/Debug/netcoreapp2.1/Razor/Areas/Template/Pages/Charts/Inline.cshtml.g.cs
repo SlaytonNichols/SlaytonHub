@@ -56,7 +56,7 @@ namespace SlaytonHub.Areas.Template.Pages.Charts
                 WriteLiteral("\n    <!-- jQuery Knob Chart -->\n    ");
                 EndContext();
                 BeginContext(106, 60, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d2985cc0b5e54dac8bd09d2949a59c37", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ee992ed95ef645b2b065fc44d5bd4e05", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -74,7 +74,7 @@ namespace SlaytonHub.Areas.Template.Pages.Charts
                 WriteLiteral("\n    <!-- Sparkline -->\n    ");
                 EndContext();
                 BeginContext(194, 71, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "05b1c47d56c447878dd069e656862df0", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2f8ca98b5dce4a8e8358846f437d4fb8", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

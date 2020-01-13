@@ -48,7 +48,7 @@ namespace SlaytonHub.Areas.Template.Pages.Shared
             WriteLiteral("<header class=\"main-header\">\n    <!-- Logo -->\n    ");
             EndContext();
             BeginContext(51, 262, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "56d6eca1c9904442a54797000fd91e38", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2c581c7928d44efe8431e22533d0eba8", async() => {
                 BeginContext(85, 224, true);
                 WriteLiteral("\n        <!-- mini logo for sidebar mini 50x50 pixels -->\n        <span class=\"logo-mini\"><b>A</b>LT</span>\n        <!-- logo for regular state and mobile devices -->\n        <span class=\"logo-lg\"><b>Admin</b>LTE</span>\n    ");
                 EndContext();
@@ -81,7 +81,7 @@ namespace SlaytonHub.Areas.Template.Pages.Shared
         ");
             EndContext();
             BeginContext(748, 42, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "f56df83811bc4567bdf1ad193206fd7e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "683d36e7fee0430ba51c2f690bcf0464", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();

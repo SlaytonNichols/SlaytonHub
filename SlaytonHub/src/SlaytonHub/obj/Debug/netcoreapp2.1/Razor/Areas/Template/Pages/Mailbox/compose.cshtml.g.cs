@@ -60,7 +60,7 @@ namespace SlaytonHub.Areas.Template.Pages.Mailbox
                 WriteLiteral("\n    <!-- bootstrap wysihtml5 - text editor -->\n    ");
                 EndContext();
                 BeginContext(115, 84, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "f365549672d54088b3c5f65b57a42685", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "a18b583bb3d241c781cbc189265f3ddb", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -88,7 +88,7 @@ namespace SlaytonHub.Areas.Template.Pages.Mailbox
                 WriteLiteral("\n    ");
                 EndContext();
                 BeginContext(229, 80, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "878197f666264ddb95188e6d22c034a9", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a6a994f3af444f4a829e7b5f399c08c1", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -111,7 +111,7 @@ namespace SlaytonHub.Areas.Template.Pages.Mailbox
             WriteLiteral("\n\n\n<div class=\"row\">\n    <div class=\"col-md-3\">\n        ");
             EndContext();
             BeginContext(511, 96, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "96d5569c80ff4da18abf9330a20caf32", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f2e83a9134104d7898b962cab7872e50", async() => {
                 BeginContext(590, 13, true);
                 WriteLiteral("Back to Inbox");
                 EndContext();
