@@ -6,55 +6,8 @@
 	
 	"Conditions" : {
 	},
-	
-
 
 	"Resources" : {
-	
-	
-      "CFDistribution": {
-        "Type": "AWS::CloudFront::Distribution",
-        "Properties": {
-          "DistributionConfig": {
-            "Enabled": "true",
-            "Comment": null,
-            "Aliases": [
-              null
-            ],
-            "Origins": [
-              {
-                "Id": "MyOrigin",
-                "DomainName": "aws.amazon.com",
-                "CustomOriginConfig": {
-                  "HTTPPort": 80,
-                  "OriginProtocolPolicy": "match-viewer"
-                }
-              }
-            ],
-            "DefaultCacheBehavior": {
-              "TargetOriginId": "MyOrigin",
-              "LambdaFunctionAssociations": [
-                {
-                  "EventType": "origin-request",
-                  "LambdaFunctionARN": null
-                }
-              ],
-              "ForwardedValues": {
-                "QueryString": "false",
-                "Headers": [
-                  "Origin"
-                ],
-                "Cookies": {
-                  "Forward": "none"
-                }
-              },
-              "ViewerProtocolPolicy": "allow-all"
-            }
-          }
-        }
-      },
-    
-
 		"AspNetCoreFunction" : {
 			"Type" : "AWS::Serverless::Function",
 			"Properties": {
@@ -94,9 +47,5 @@
 			"Description" : "API endpoint URL for Prod environment",
 			"Value" : { "Fn::Sub" : "https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/Prod/" }
 		}
-	},
-	  "CFDistribution": {
-        "Description": "Cloudfront Distribution Domain Name",
-        "Value": null
-      }
+	}
 }
