@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6b7cdf4-3258-47c9-8a3a-1f33ccf6e8ce" name="Default Changelist" comment="updates" />
+    <list default="true" id="d6b7cdf4-3258-47c9-8a3a-1f33ccf6e8ce" name="Default Changelist" comment="typo">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/serverless.template" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/serverless.template" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +123,6 @@
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Data/RepoContext.cs" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Data/IRepo.cs" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Data/Repo.cs" />
-        <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/serverless.template" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/aws-lambda-tools-defaults.json" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Areas/Template/Pages/Shared/_SidebarPartial.cshtml" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_SidebarPartial.cshtml" />
@@ -128,6 +130,7 @@
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Index.cshtml" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/Pages/Shared/_NavbarRightMenuPartial.cshtml" />
         <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/buildspec.yml" />
+        <option value="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/serverless.template" />
       </list>
     </option>
   </component>
@@ -239,7 +242,9 @@
       <workItem from="1578798038959" duration="6436000" />
       <workItem from="1578837475968" duration="2493000" />
       <workItem from="1578843576846" duration="20283000" />
-      <workItem from="1578879007457" duration="1919000" />
+      <workItem from="1578879007457" duration="3011000" />
+      <workItem from="1578884873042" duration="655000" />
+      <workItem from="1579976856758" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="Revert back to 2.1">
       <created>1578861805160</created>
@@ -311,7 +316,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578880918388</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="typo">
+      <created>1578881030247</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1578881030247</updated>
+    </task>
+    <task id="LOCAL-00012" summary="typo">
+      <created>1578881167804</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1578881167804</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +356,8 @@
     <MESSAGE value="Add buildspec.yml" />
     <MESSAGE value="move buildspec" />
     <MESSAGE value="updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="updates" />
+    <MESSAGE value="typo" />
+    <option name="LAST_COMMIT_MESSAGE" value="typo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="555" y="181" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578856737043">
@@ -380,10 +400,10 @@
       <screen x="0" y="27" width="1920" height="988" />
     </state>
     <state x="449" y="155" key="SettingsEditor/0.27.1920.988@0.27.1920.988" timestamp="1578804951496" />
-    <state x="555" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1578881033597">
+    <state x="555" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1578881295950">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
-    <state x="555" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578881033597" />
+    <state x="555" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578881295950" />
     <state x="624" y="202" width="662" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578854647976">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
