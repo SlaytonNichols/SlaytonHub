@@ -6,7 +6,7 @@ namespace SlaytonHub.Pages
     {
         public void OnGet()
         {
-
+            
         }
     }
 }
