@@ -1,3 +1,13 @@
+# Template Admin Web Application
+- Sample home page
+- User Roles
+- Authentication 
+- Widgets
+- Icons
+- Chat 
+- Forms
+- General UI Elements 
+
 # ASP.NET Core Web API Serverless Application
 
 This project shows how to run an ASP.NET Core Web Application as a serverless application. The NuGet package [Amazon.Lambda.AspNetCoreServer](https://www.nuget.org/packages/Amazon.Lambda.AspNetCoreServer) contains a Lambda function that is used to translate requests from API Gateway into the ASP.NET Core framework and then the responses from ASP.NET Core back to API Gateway.
