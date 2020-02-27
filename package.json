@@ -1,0 +1,10 @@
+{
+  "name": "SlaytonHub",
+  "version": "1.0.0",
+  "description": "Portfolio/Hub",
+  "main": "index.js",
+  "repository": "https://github.com/SlaytonNichols/SlaytonHub.git",
+  "author": "SlaytonNichols <nicholsslayton@gmail.com>",
+  "license": "MIT",
+  "private": false
+}

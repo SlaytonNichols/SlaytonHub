@@ -80,7 +80,7 @@ namespace SlaytonHub.Areas.Template.Pages.Mailbox
             WriteLiteral("\n\n\n<div class=\"row\">\n    <div class=\"col-md-3\">\n        ");
             EndContext();
             BeginContext(599, 96, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "64620c06c1be4a01b61853650475a48b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9d197492144849ea896bd71bf27e706c", async() => {
                 BeginContext(678, 13, true);
                 WriteLiteral("Back to Inbox");
                 EndContext();

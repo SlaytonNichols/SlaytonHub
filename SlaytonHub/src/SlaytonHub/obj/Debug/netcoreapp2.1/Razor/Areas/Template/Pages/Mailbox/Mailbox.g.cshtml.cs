@@ -115,7 +115,7 @@ namespace SlaytonHub.Areas.Template.Pages.Mailbox
             WriteLiteral("\n<div class=\"row\">\n    <div class=\"col-md-3\">\n        ");
             EndContext();
             BeginContext(2227, 90, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "df45fcbb66d749d39139fa7d1ea8f822", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "18c4cd7c05724dd999f59c5c9282f52f", async() => {
                 BeginContext(2306, 7, true);
                 WriteLiteral("Compose");
                 EndContext();
@@ -238,7 +238,7 @@ namespace SlaytonHub.Areas.Template.Pages.Mailbox
                                 <td class=""mailbox-name"">");
             EndContext();
             BeginContext(7017, 43, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "aecbfb540a6d4c8f999e1131a311a7d0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d97ee072c2f340348064d1663f4df62e", async() => {
                 BeginContext(7040, 16, true);
                 WriteLiteral("Alexander Pierce");
                 EndContext();
