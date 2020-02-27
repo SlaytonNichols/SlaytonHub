@@ -192,7 +192,7 @@ namespace SlaytonHub.Areas.Template.Pages.Examples
                         ");
             EndContext();
             BeginContext(6480, 577, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "25fc52601b2d4a048949149a367de744", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "739424b936fb40638acc5b3406b5f5b3", async() => {
                 BeginContext(6510, 540, true);
                 WriteLiteral(@"
                             <div class=""form-group margin-bottom-none"">
@@ -381,7 +381,7 @@ namespace SlaytonHub.Areas.Template.Pages.Examples
             WriteLiteral("                            <i class=\"fa fa-clock-o bg-gray\"></i>\n                        </li>\n                    </ul>\n                </div>\n                <!-- /.tab-pane -->\n\n                <div class=\"tab-pane\" id=\"settings\">\n                    ");
             EndContext();
             BeginContext(15504, 2706, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f3156380bafd4cc1aa19d855c1af5c93", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "379954602452487c9dba90a05e639d80", async() => {
                 BeginContext(15534, 2669, true);
                 WriteLiteral(@"
                         <div class=""form-group"">

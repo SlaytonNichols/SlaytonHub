@@ -157,7 +157,7 @@ namespace SlaytonHub.Areas.Template.Pages.Shared
                 ");
             EndContext();
             BeginContext(5443, 2672, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "36ef0b394b23459a8ed5e42adf669340", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7ad7d04e7f7d45519308e0cc48e20894", async() => {
                 BeginContext(5463, 2645, true);
                 WriteLiteral(@"
                     <h3 class=""control-sidebar-heading"">General Settings</h3>
