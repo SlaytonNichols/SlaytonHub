@@ -39,9 +39,17 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[3.5.0-beta, )"
+            },
             "AWSSDK.RDS": {
               "target": "Package",
               "version": "[3.3.116, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.5.0-beta, )"
             },
             "Amazon.Lambda.AspNetCoreServer": {
               "target": "Package",

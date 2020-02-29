@@ -14,5 +14,5 @@
   "framework"     : "netcoreapp2.1",
   "s3-prefix"     : "SlaytonHub/",
   "template"      : "serverless.template",
-  "template-parameters" : "-sb slaytonhub -sn SlaytonHub"
+  "template-parameters" : "bucketname=slaytonhub.content, url=file://${pwd}/wwwroot"  
 }

@@ -89,6 +89,7 @@
           <e p="IRepo.cs" t="Include" />
           <e p="Repo.cs" t="Include" />
         </e>
+        <e p="DeploymentFunction.cs" t="Include" />
         <e p="Helpers" t="Include">
           <e p="GetRdsConnection.cs" t="Include" />
           <e p="SeceretHelper.cs" t="Include" />
@@ -146,6 +147,7 @@
         <e p="aws-lambda-tools-defaults.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="bundleconfig.json" t="Include" />
+        <e p="deploy.sh" t="Include" />
         <e p="libman.json" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">

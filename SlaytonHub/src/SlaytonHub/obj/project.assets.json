@@ -91,7 +91,7 @@
           "lib/netstandard2.0/AspNetCore.Mvc.Routes.DebuggingLoggerMiddleware.dll": {}
         }
       },
-      "AWSSDK.Core/3.3.104.15": {
+      "AWSSDK.Core/3.5.0-beta": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/AWSSDK.Core.dll": {}
@@ -110,6 +110,18 @@
         },
         "runtime": {
           "lib/netstandard2.0/AWSSDK.RDS.dll": {}
+        }
+      },
+      "AWSSDK.S3/3.5.0-beta": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.5.0-beta, 3.6.0-beta)"
+        },
+        "compile": {
+          "lib/netstandard2.0/AWSSDK.S3.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.S3.dll": {}
         }
       },
       "BouncyCastle.NetCore/1.8.3": {
@@ -4795,25 +4807,16 @@
         "lib/netstandard2.0/AspNetCore.Mvc.Routes.DebuggingLoggerMiddleware.dll"
       ]
     },
-    "AWSSDK.Core/3.3.104.15": {
-      "sha512": "gJ0sYtbduo3EbBxsBVUJrUFCURzZX18xo07dOelmlAxLlg1FhkShoZqcxPseGPiap8fOC503vzg/S6+2uSTt/w==",
+    "AWSSDK.Core/3.5.0-beta": {
+      "sha512": "ZRFwKVPowoB87Fgof6F9Vxr/6/3TvAc7Pc17S74oUCCEbPnMLZtELqEREDiWMqkUYZxwcFrgmpML8LQl792XzA==",
       "type": "package",
-      "path": "awssdk.core/3.3.104.15",
+      "path": "awssdk.core/3.5.0-beta",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "awssdk.core.3.3.104.15.nupkg.sha512",
+        "awssdk.core.3.5.0-beta.nupkg.sha512",
         "awssdk.core.nuspec",
-        "lib/MonoAndroid10/AWSSDK.Core.XML",
-        "lib/MonoAndroid10/AWSSDK.Core.dll",
-        "lib/MonoAndroid10/AWSSDK.Core.pdb",
-        "lib/MonoTouch10/AWSSDK.Core.XML",
-        "lib/MonoTouch10/AWSSDK.Core.dll",
-        "lib/Xamarin.Mac20/AWSSDK.Core.XML",
-        "lib/Xamarin.Mac20/AWSSDK.Core.dll",
-        "lib/Xamarin.iOS10/AWSSDK.Core.XML",
-        "lib/Xamarin.iOS10/AWSSDK.Core.dll",
         "lib/net35/AWSSDK.Core.dll",
         "lib/net35/AWSSDK.Core.pdb",
         "lib/net35/AWSSDK.Core.xml",
@@ -4826,21 +4829,6 @@
         "lib/netstandard2.0/AWSSDK.Core.dll",
         "lib/netstandard2.0/AWSSDK.Core.pdb",
         "lib/netstandard2.0/AWSSDK.Core.xml",
-        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.Core.XML",
-        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.Core.dll",
-        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.Core.pdb",
-        "lib/uap/AWSSDK.Core.XML",
-        "lib/uap/AWSSDK.Core.dll",
-        "lib/uap/AWSSDK.Core.pdb",
-        "lib/win8/AWSSDK.Core.XML",
-        "lib/win8/AWSSDK.Core.dll",
-        "lib/win8/AWSSDK.Core.pdb",
-        "lib/wp8/AWSSDK.Core.XML",
-        "lib/wp8/AWSSDK.Core.dll",
-        "lib/wp8/AWSSDK.Core.pdb",
-        "lib/wpa81/AWSSDK.Core.XML",
-        "lib/wpa81/AWSSDK.Core.dll",
-        "lib/wpa81/AWSSDK.Core.pdb",
         "tools/account-management.ps1"
       ]
     },
@@ -4880,6 +4868,33 @@
         "lib/uap/AWSSDK.RDS.XML",
         "lib/uap/AWSSDK.RDS.dll",
         "lib/uap/AWSSDK.RDS.pdb",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "AWSSDK.S3/3.5.0-beta": {
+      "sha512": "D8YSmwhaRxQ2w38Z1NPtWU3AsLhyTZrQo+CxAKGH8VaSjd6Fbn3ip2uRt50o+gaJxQ+SOdZeebh91VqcHEgLqg==",
+      "type": "package",
+      "path": "awssdk.s3/3.5.0-beta",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AWSSDK.S3.CodeAnalysis.dll",
+        "awssdk.s3.3.5.0-beta.nupkg.sha512",
+        "awssdk.s3.nuspec",
+        "lib/net35/AWSSDK.S3.dll",
+        "lib/net35/AWSSDK.S3.pdb",
+        "lib/net35/AWSSDK.S3.xml",
+        "lib/net45/AWSSDK.S3.dll",
+        "lib/net45/AWSSDK.S3.pdb",
+        "lib/net45/AWSSDK.S3.xml",
+        "lib/netstandard1.3/AWSSDK.S3.dll",
+        "lib/netstandard1.3/AWSSDK.S3.pdb",
+        "lib/netstandard1.3/AWSSDK.S3.xml",
+        "lib/netstandard2.0/AWSSDK.S3.dll",
+        "lib/netstandard2.0/AWSSDK.S3.pdb",
+        "lib/netstandard2.0/AWSSDK.S3.xml",
         "tools/install.ps1",
         "tools/uninstall.ps1"
       ]
@@ -12816,7 +12831,9 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "AWSSDK.Core >= 3.5.0-beta",
       "AWSSDK.RDS >= 3.3.116",
+      "AWSSDK.S3 >= 3.5.0-beta",
       "Amazon.Lambda.AspNetCoreServer >= 4.0.0",
       "AspNetCore.Mvc.Routes.DebuggingLoggerMiddleware >= 1.0.0",
       "Dapper >= 2.0.30",
@@ -12864,9 +12881,17 @@
     "frameworks": {
       "netcoreapp2.1": {
         "dependencies": {
+          "AWSSDK.Core": {
+            "target": "Package",
+            "version": "[3.5.0-beta, )"
+          },
           "AWSSDK.RDS": {
             "target": "Package",
             "version": "[3.3.116, )"
+          },
+          "AWSSDK.S3": {
+            "target": "Package",
+            "version": "[3.5.0-beta, )"
           },
           "Amazon.Lambda.AspNetCoreServer": {
             "target": "Package",
@@ -12903,5 +12928,17 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: AWSSDK.RDS 3.3.116 requires AWSSDK.Core (>= 3.3.104.15 && < 3.4.0) but version AWSSDK.Core 3.5.0-beta was resolved.",
+      "libraryId": "AWSSDK.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    }
+  ]
 }
