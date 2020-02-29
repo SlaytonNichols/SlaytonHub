@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "a0ba6d3f25a89005f410d46143758c0b52acb0c4"
+    "signature": "451446412f135c0aa8449cd3b4d2124133dca3a7"
   },
   "compilationOptions": {
     "defines": [
@@ -24,10 +24,13 @@
     ".NETCoreApp,Version=v2.1": {
       "SlaytonHub/1.0.0": {
         "dependencies": {
+          "AWSSDK.Core": "3.5.0-beta",
           "AWSSDK.RDS": "3.3.116",
+          "AWSSDK.S3": "3.5.0-beta",
           "Amazon.Lambda.AspNetCoreServer": "4.0.0",
           "AspNetCore.Mvc.Routes.DebuggingLoggerMiddleware": "1.0.0",
           "Dapper": "2.0.30",
+          "GithubWebhook": "1.1.0",
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.NETCore.App": "2.1.0",
           "MySql.Data": "8.0.18"
@@ -142,11 +145,11 @@
           "lib/netstandard2.0/AspNetCore.Mvc.Routes.DebuggingLoggerMiddleware.dll": {}
         }
       },
-      "AWSSDK.Core/3.3.104.15": {
+      "AWSSDK.Core/3.5.0-beta": {
         "runtime": {
           "lib/netstandard2.0/AWSSDK.Core.dll": {
             "assemblyVersion": "3.3.0.0",
-            "fileVersion": "3.3.104.15"
+            "fileVersion": "3.5.0.0"
           }
         },
         "compile": {
@@ -155,7 +158,7 @@
       },
       "AWSSDK.RDS/3.3.116": {
         "dependencies": {
-          "AWSSDK.Core": "3.3.104.15"
+          "AWSSDK.Core": "3.5.0-beta"
         },
         "runtime": {
           "lib/netstandard2.0/AWSSDK.RDS.dll": {
@@ -165,6 +168,20 @@
         },
         "compile": {
           "lib/netstandard2.0/AWSSDK.RDS.dll": {}
+        }
+      },
+      "AWSSDK.S3/3.5.0-beta": {
+        "dependencies": {
+          "AWSSDK.Core": "3.5.0-beta"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.5.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/AWSSDK.S3.dll": {}
         }
       },
       "BouncyCastle.NetCore/1.8.3": {
@@ -195,6 +212,21 @@
         },
         "compile": {
           "lib/netstandard2.0/Dapper.dll": {}
+        }
+      },
+      "GithubWebhook/1.1.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Http": "2.1.1",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/GithubWebhook.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/GithubWebhook.dll": {}
         }
       },
       "Google.Protobuf/3.6.1": {
@@ -3585,12 +3617,12 @@
       "path": "aspnetcore.mvc.routes.debuggingloggermiddleware/1.0.0",
       "hashPath": "aspnetcore.mvc.routes.debuggingloggermiddleware.1.0.0.nupkg.sha512"
     },
-    "AWSSDK.Core/3.3.104.15": {
+    "AWSSDK.Core/3.5.0-beta": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-gJ0sYtbduo3EbBxsBVUJrUFCURzZX18xo07dOelmlAxLlg1FhkShoZqcxPseGPiap8fOC503vzg/S6+2uSTt/w==",
-      "path": "awssdk.core/3.3.104.15",
-      "hashPath": "awssdk.core.3.3.104.15.nupkg.sha512"
+      "sha512": "sha512-ZRFwKVPowoB87Fgof6F9Vxr/6/3TvAc7Pc17S74oUCCEbPnMLZtELqEREDiWMqkUYZxwcFrgmpML8LQl792XzA==",
+      "path": "awssdk.core/3.5.0-beta",
+      "hashPath": "awssdk.core.3.5.0-beta.nupkg.sha512"
     },
     "AWSSDK.RDS/3.3.116": {
       "type": "package",
@@ -3598,6 +3630,13 @@
       "sha512": "sha512-W8G0DRca220N13202e6u/BPiIz5gGy9ae2RQrZZz5dHIvNA8faJYVQAlZ4r1swptAn6BYTleXqKyT69dvdWh6A==",
       "path": "awssdk.rds/3.3.116",
       "hashPath": "awssdk.rds.3.3.116.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.5.0-beta": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-D8YSmwhaRxQ2w38Z1NPtWU3AsLhyTZrQo+CxAKGH8VaSjd6Fbn3ip2uRt50o+gaJxQ+SOdZeebh91VqcHEgLqg==",
+      "path": "awssdk.s3/3.5.0-beta",
+      "hashPath": "awssdk.s3.3.5.0-beta.nupkg.sha512"
     },
     "BouncyCastle.NetCore/1.8.3": {
       "type": "package",
@@ -3612,6 +3651,13 @@
       "sha512": "sha512-nL0VEpvunjIQ3jTI1x27b7BS3BnRnn5b2vhxsU2pWEd9SljF5WUQLoV/83qXTm0yaHmejRV/ndI3EApGlrgPqw==",
       "path": "dapper/2.0.30",
       "hashPath": "dapper.2.0.30.nupkg.sha512"
+    },
+    "GithubWebhook/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AmMEjr66K8+9CRbWOrY4IKhBmPNDlInf+hRpq1Hr4PpGEehPCoZdHQZWrtexpIWbrp9n7iHygp2YOdApUxAtAw==",
+      "path": "githubwebhook/1.1.0",
+      "hashPath": "githubwebhook.1.1.0.nupkg.sha512"
     },
     "Google.Protobuf/3.6.1": {
       "type": "package",

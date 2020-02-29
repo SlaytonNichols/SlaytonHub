@@ -9,6 +9,9 @@ using Amazon;
 using Amazon.Lambda.Core;
 using Amazon.S3;
 using Amazon.S3.Model;
+using GithubWebhook;
+using GithubWebhook.Common;
+using Newtonsoft.Json.Linq;
 
 [assembly: LambdaSerializer((typeof(Amazon.Lambda.Serialization.Json.JsonSerializer)))]
 
@@ -25,41 +28,9 @@ namespace SlaytonHub
         
         public async Task<string> FunctionHandlerAsync(ILambdaContext context)
         {
-            s3Client = new AmazonS3Client(bucketRegion);
-            var url = GeneratePreSignedURL();
+            return string.Empty;
         }
 
-        // private async Task<HttpWebResponse> UploadObject(string url)
-        // {
-        //     HttpWebRequest httpRequest = WebRequest.Create(url) as HttpWebRequest;
-        //     httpRequest.Method = "PUT";
-        //     using (Stream dataStream = httpRequest.GetRequestStream())
-        //     {
-        //         var buffer = new byte[8000];
-        //         using (FileStream fileStream = new FileStream(filePath, FileMode.Open, FileAccess.Read))
-        //         {
-        //             int bytesRead = 0;
-        //             while ((bytesRead = fileStream.Read(buffer, 0, buffer.Length)) > 0)
-        //             {
-        //                 dataStream.Write(buffer, 0, bytesRead);
-        //             }
-        //         }
-        //     }
-        //     return httpRequest.GetResponse() as HttpWebResponse;
-        // }
-
-        private static string GeneratePreSignedURL()
-        {
-            var request = new GetPreSignedUrlRequest
-            {
-                BucketName = bucketName,
-                Key        = objectKey,
-                Verb       = HttpVerb.PUT,
-                Expires    = DateTime.Now.AddMinutes(5)
-            };
-
-            string url = s3Client.GetPreSignedURL(request);
-            return url;
-        }
+        
     }
 }

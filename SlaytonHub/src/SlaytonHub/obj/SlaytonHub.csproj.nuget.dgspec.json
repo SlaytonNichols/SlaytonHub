@@ -63,6 +63,10 @@
               "target": "Package",
               "version": "[2.0.30, )"
             },
+            "GithubWebhook": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",

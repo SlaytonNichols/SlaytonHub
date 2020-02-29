@@ -66,7 +66,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
             ");
             EndContext();
             BeginContext(477, 1314, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1a867391c3b42d9b3676314743f4ed3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a93c7635ec4e48e8951de9796531cdc6", async() => {
                 BeginContext(495, 1289, true);
                 WriteLiteral(@"
                 <div class=""box-body"">
@@ -291,7 +291,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
             ");
             EndContext();
             BeginContext(8470, 1550, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3c5ac5fa719348f1a62598c4d2d5d205", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "429e8e3fef87461a97b70d064459a327", async() => {
                 BeginContext(8500, 1513, true);
                 WriteLiteral(@"
                 <div class=""box-body"">
@@ -357,7 +357,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 ");
             EndContext();
             BeginContext(10358, 6509, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "aef99c3547624702880b30074323e828", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "362fe7ae7e604a46b1bbc5d68b0ba1e6", async() => {
                 BeginContext(10376, 4619, true);
                 WriteLiteral(@"
                     <!-- text input -->
@@ -460,7 +460,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                             ");
                 EndContext();
                 BeginContext(14995, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d86119fb39d04f6b8828334fe1a73d54", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e0ab12638c77433bba106c00209f949a", async() => {
                     BeginContext(15003, 8, true);
                     WriteLiteral("option 1");
                     EndContext();
@@ -480,7 +480,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 WriteLiteral("\n                            ");
                 EndContext();
                 BeginContext(15049, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "351ef016660044b7b4454881b2c4a0db", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3d26f89e8dc74a0499b149b04c9f979c", async() => {
                     BeginContext(15057, 8, true);
                     WriteLiteral("option 2");
                     EndContext();
@@ -500,7 +500,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 WriteLiteral("\n                            ");
                 EndContext();
                 BeginContext(15103, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "86e9c351d0fc41ebbe504c733d558a93", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "68d8c2047e3642ba8693a55570a29260", async() => {
                     BeginContext(15111, 8, true);
                     WriteLiteral("option 3");
                     EndContext();
@@ -520,7 +520,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 WriteLiteral("\n                            ");
                 EndContext();
                 BeginContext(15157, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "92dbb942076c45b3bf154b6a1db6d78e", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1e217a3f52e143f098b192512d1f5d93", async() => {
                     BeginContext(15165, 8, true);
                     WriteLiteral("option 4");
                     EndContext();
@@ -540,7 +540,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 WriteLiteral("\n                            ");
                 EndContext();
                 BeginContext(15211, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c62295094bb5474cb74c1358e6cbbde4", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f43b18e5cd7f445bba5e702e24957677", async() => {
                     BeginContext(15219, 8, true);
                     WriteLiteral("option 5");
                     EndContext();
@@ -560,7 +560,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 WriteLiteral("\n                        </select>\n                    </div>\n                    <div class=\"form-group\">\n                        <label>Select Disabled</label>\n                        <select class=\"form-control\" disabled>\n                            ");
                 EndContext();
                 BeginContext(15489, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dca555ccd8ac45cea961ce4a0d523c52", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1a7bd6826cd74359843bc14d891b4758", async() => {
                     BeginContext(15497, 8, true);
                     WriteLiteral("option 1");
                     EndContext();
@@ -580,7 +580,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 WriteLiteral("\n                            ");
                 EndContext();
                 BeginContext(15543, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eebcd6b274b9417dab2bd53105665695", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ee6884cfe24747dea419e9459879fa89", async() => {
                     BeginContext(15551, 8, true);
                     WriteLiteral("option 2");
                     EndContext();
@@ -600,7 +600,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 WriteLiteral("\n                            ");
                 EndContext();
                 BeginContext(15597, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c62051c59bd744a1967d63afc52b525f", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0eb284ace2ae4ef298860d69e5e8da12", async() => {
                     BeginContext(15605, 8, true);
                     WriteLiteral("option 3");
                     EndContext();
@@ -620,7 +620,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 WriteLiteral("\n                            ");
                 EndContext();
                 BeginContext(15651, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "941dc517fc4e4b06b0b8a0dc63ab68b7", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b34735608b0349b5953e2b36ff6bd800", async() => {
                     BeginContext(15659, 8, true);
                     WriteLiteral("option 4");
                     EndContext();
@@ -640,7 +640,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 WriteLiteral("\n                            ");
                 EndContext();
                 BeginContext(15705, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "81fcdbf86bd343838916c3d53bb728d4", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "637fde1727a9451fb61ca2c6d94dd4b4", async() => {
                     BeginContext(15713, 8, true);
                     WriteLiteral("option 5");
                     EndContext();
@@ -668,7 +668,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                             ");
                 EndContext();
                 BeginContext(16028, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "52a675f381774fd3ac387890d87a976f", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eaa285666de84f1bb5ddb1227570697e", async() => {
                     BeginContext(16036, 8, true);
                     WriteLiteral("option 1");
                     EndContext();
@@ -688,7 +688,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 WriteLiteral("\n                            ");
                 EndContext();
                 BeginContext(16082, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "24e720be56134ecaa0dec1cdc87b6ad4", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "00fdc4a072d14eb993de665b20f90266", async() => {
                     BeginContext(16090, 8, true);
                     WriteLiteral("option 2");
                     EndContext();
@@ -708,7 +708,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 WriteLiteral("\n                            ");
                 EndContext();
                 BeginContext(16136, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "688248ded15c4f61b605628e52fc5212", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f83b78ad854a4103b7c07e122dcf9a8f", async() => {
                     BeginContext(16144, 8, true);
                     WriteLiteral("option 3");
                     EndContext();
@@ -728,7 +728,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 WriteLiteral("\n                            ");
                 EndContext();
                 BeginContext(16190, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "657e491a0b5642b79fd87ac500352fd8", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "433be426d1cd467fa8c4b4eedea49cab", async() => {
                     BeginContext(16198, 8, true);
                     WriteLiteral("option 4");
                     EndContext();
@@ -748,7 +748,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 WriteLiteral("\n                            ");
                 EndContext();
                 BeginContext(16244, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a33ffcdb871849bdb5d38f68baf42f85", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "75fedf8d5bf0497a9b18df75ad962b7f", async() => {
                     BeginContext(16252, 8, true);
                     WriteLiteral("option 5");
                     EndContext();
@@ -774,7 +774,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                             ");
                 EndContext();
                 BeginContext(16540, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6a648ad47d7048f491db00e5da55f4cd", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "64547dffdab64694a70aed856d94c995", async() => {
                     BeginContext(16548, 8, true);
                     WriteLiteral("option 1");
                     EndContext();
@@ -794,7 +794,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 WriteLiteral("\n                            ");
                 EndContext();
                 BeginContext(16594, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "04c425a18b6048a9b00432c57a7c9cdc", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e4f0d5cf1a4d4c8da77778fc36f64822", async() => {
                     BeginContext(16602, 8, true);
                     WriteLiteral("option 2");
                     EndContext();
@@ -814,7 +814,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 WriteLiteral("\n                            ");
                 EndContext();
                 BeginContext(16648, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9b7048b88dfd423ba3792c17f7e6f679", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8b5ce8b140304fdea9a30b21bdf133b2", async() => {
                     BeginContext(16656, 8, true);
                     WriteLiteral("option 3");
                     EndContext();
@@ -834,7 +834,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 WriteLiteral("\n                            ");
                 EndContext();
                 BeginContext(16702, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd436b7be38841d9a8cb6c4c68f21087", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3f342b472ac94458a450ea38af5283b9", async() => {
                     BeginContext(16710, 8, true);
                     WriteLiteral("option 4");
                     EndContext();
@@ -854,7 +854,7 @@ namespace SlaytonHub.Areas.Template.Pages.Forms
                 WriteLiteral("\n                            ");
                 EndContext();
                 BeginContext(16756, 25, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "24dcf8e61919450bab883af96929213c", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d3b9e8c6b11d45edaab6cfc8f33f8649", async() => {
                     BeginContext(16764, 8, true);
                     WriteLiteral("option 5");
                     EndContext();

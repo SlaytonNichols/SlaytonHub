@@ -150,6 +150,19 @@
           "lib/netstandard2.0/Dapper.dll": {}
         }
       },
+      "GithubWebhook/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http": "2.0.1",
+          "Newtonsoft.Json": "10.0.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/GithubWebhook.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/GithubWebhook.dll": {}
+        }
+      },
       "Google.Protobuf/3.6.1": {
         "type": "package",
         "dependencies": {
@@ -4939,6 +4952,18 @@
         "lib/net461/Dapper.xml",
         "lib/netstandard2.0/Dapper.dll",
         "lib/netstandard2.0/Dapper.xml"
+      ]
+    },
+    "GithubWebhook/1.1.0": {
+      "sha512": "AmMEjr66K8+9CRbWOrY4IKhBmPNDlInf+hRpq1Hr4PpGEehPCoZdHQZWrtexpIWbrp9n7iHygp2YOdApUxAtAw==",
+      "type": "package",
+      "path": "githubwebhook/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "githubwebhook.1.1.0.nupkg.sha512",
+        "githubwebhook.nuspec",
+        "lib/netstandard2.0/GithubWebhook.dll"
       ]
     },
     "Google.Protobuf/3.6.1": {
@@ -12837,6 +12862,7 @@
       "Amazon.Lambda.AspNetCoreServer >= 4.0.0",
       "AspNetCore.Mvc.Routes.DebuggingLoggerMiddleware >= 1.0.0",
       "Dapper >= 2.0.30",
+      "GithubWebhook >= 1.1.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.NETCore.App >= 2.1.0",
       "MySql.Data >= 8.0.18"
@@ -12904,6 +12930,10 @@
           "Dapper": {
             "target": "Package",
             "version": "[2.0.30, )"
+          },
+          "GithubWebhook": {
+            "target": "Package",
+            "version": "[1.1.0, )"
           },
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
