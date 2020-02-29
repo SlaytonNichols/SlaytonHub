@@ -14,6 +14,6 @@ jobs:
       with:
         dotnet-version: 2.2.108
     - name: Build with dotnet
-      run: dotnet tool install -g Amazon.Lambda.Tools
+      run: dotnet tool install Amazon.Lambda.Tools --tool-path ~/.dotnet/tools
     - name: Release 
       run: dotnet lambda deploy-serverless
