@@ -6,6 +6,7 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
+    
 
     steps:
     - uses: actions/checkout@v2
@@ -13,7 +14,15 @@ jobs:
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: 2.2.108
-    - name: Build with dotnet
-      run: dotnet tool install Amazon.Lambda.Tools --tool-path ~/.dotnet/tools
+    - name: Install Amazon.Lambda.Tools
+      run: dotnet tool install Amazon.Lambda.Tools --tool-path ~/.dotnet/tools          
+    - name: Install Amazon.Lambda.Tools
+      run: |
+          dotnet tool install --global Amazon.Lambda.Tools
+          echo "::set-env name=PATH::${PATH}:${HOME}/.dotnet/tools"
+    - name: see whats up          
+      run: pwd
+    - name: see whats up          
+      run: cd ~/.dotnet/tools
     - name: Release 
       run: dotnet lambda deploy-serverless
