@@ -13,6 +13,6 @@
   "configuration" : "Release",
   "framework"     : "netcoreapp2.1",
   "s3-prefix"     : "SlaytonHub/",
-  "template"      : "src/SlaytonHub/serverless.template",
+  "template"      : "SlaytonHub/src/SlaytonHub/serverless.template",
   "template-parameters" : "bucketname=slaytonhub.content, url=file://${pwd}/wwwroot, BranchName=master, GitHubOwner=SlaytonNichols"  
 }
