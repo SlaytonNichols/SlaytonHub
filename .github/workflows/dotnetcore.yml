@@ -24,4 +24,4 @@ jobs:
     - name: see whats up          
       run: cd ~/.dotnet/tools
     - name: Release 
-      run: dotnet lambda deploy-serverless
+      run: dotnet lambda deploy-serverless -sn SlaytonHub -cfg SlaytonHub/src/SlaytonHub/aws-lambda-tools-defaults.json --region us-east-1 -sb slaytonhub
