@@ -41,6 +41,7 @@ namespace SlaytonHub
                 {
                     options.Conventions
                         .AddAreaPageRoute("Template", "/Areas/Template/Index", "/template");
+                    options.Conventions.AuthorizeAreaFolder("Template", "/Areas/Template");
                 })
                 .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             // Add S3 to the ASP.NET Core dependency injection framework.
