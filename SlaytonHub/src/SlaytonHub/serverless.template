@@ -19,7 +19,7 @@
 				"MemorySize": 512,
 				"Timeout": 30,
 				"Role": "arn:aws:iam::417677115500:role/Admin",
-				"Policies": [ "AWSLambdaFullAccess" ],
+				"Policies": [ "AdministratorAccess" ],
 				"Environment" : {
 					"Variables" : {
 					}
