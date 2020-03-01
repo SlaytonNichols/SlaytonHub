@@ -12,7 +12,7 @@
   "region" : "us-east-1",
   "configuration" : "Release",
   "framework"     : "netcoreapp2.1",
-  "s3-prefix"     : "/Portfolio/",
+  "s3-prefix"     : "Portfolio/",
   "template"      : "SlaytonHub/src/SlaytonHub/serverless.template",
   "template-parameters" : ""  
 }

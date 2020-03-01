@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6b7cdf4-3258-47c9-8a3a-1f33ccf6e8ce" name="Default Changelist" comment="s3 prefix">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/dotnetcore.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/dotnetcore.yml" afterDir="false" />
+    <list default="true" id="d6b7cdf4-3258-47c9-8a3a-1f33ccf6e8ce" name="Default Changelist" comment="Change s3 bucket different region">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/aws-lambda-tools-defaults.json" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/aws-lambda-tools-defaults.json" afterDir="false" />
     </list>
@@ -607,7 +606,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583025224109</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Change s3 bucket different region">
+      <created>1583027845535</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1583027845535</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -647,7 +653,8 @@
     <MESSAGE value="remove s3 deployment" />
     <MESSAGE value="remove region in cmd to aws cli" />
     <MESSAGE value="s3 prefix" />
-    <option name="LAST_COMMIT_MESSAGE" value="s3 prefix" />
+    <MESSAGE value="Change s3 bucket different region" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change s3 bucket different region" />
   </component>
   <component name="WindowStateProjectService">
     <state x="555" y="181" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578856737043">
@@ -700,11 +707,11 @@
       <screen x="0" y="27" width="1920" height="988" />
     </state>
     <state x="449" y="155" key="SettingsEditor/0.27.1920.988@0.27.1920.988" timestamp="1578804951496" />
-    <state x="320" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1583025307094">
+    <state x="320" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1583028591681">
       <screen x="0" y="27" width="3840" height="988" />
     </state>
     <state x="555" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578881295950" />
-    <state x="320" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.3840.988@0.27.3840.988" timestamp="1583025307094" />
+    <state x="320" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.3840.988@0.27.3840.988" timestamp="1583028591681" />
     <state x="624" y="202" width="662" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578854647976">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
@@ -717,12 +724,12 @@
       <screen x="0" y="27" width="3840" height="988" />
     </state>
     <state x="728" y="459" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.3840.988@0.27.3840.988" timestamp="1583022584859" />
-    <state x="0" y="183" width="1774" height="706" key="find.popup" timestamp="1583013035552">
+    <state x="0" y="183" width="1774" height="706" key="find.popup" timestamp="1583028015725">
       <screen x="0" y="27" width="3840" height="988" />
     </state>
     <state x="596" y="251" width="728" height="538" key="find.popup/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578870333626" />
     <state x="596" y="251" width="887" height="646" key="find.popup/0.27.1920.988@0.27.1920.988" timestamp="1582946155560" />
-    <state x="0" y="183" width="1774" height="706" key="find.popup/0.27.3840.988@0.27.3840.988" timestamp="1583013035552" />
+    <state x="0" y="183" width="1774" height="706" key="find.popup/0.27.3840.988@0.27.3840.988" timestamp="1583028015725" />
     <state x="624" y="237" key="run.anything.popup" timestamp="1578790219892">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
