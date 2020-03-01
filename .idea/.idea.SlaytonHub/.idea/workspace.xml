@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6b7cdf4-3258-47c9-8a3a-1f33ccf6e8ce" name="Default Changelist" comment="Update dotnet lambda deploy cmd in order to address issue finding s3 bucket">
+    <list default="true" id="d6b7cdf4-3258-47c9-8a3a-1f33ccf6e8ce" name="Default Changelist" comment="remove s3 deployment">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/dotnetcore.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/dotnetcore.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SlaytonHub/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/aws-lambda-tools-defaults.json" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/aws-lambda-tools-defaults.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/serverless.template" beforeDir="false" afterPath="$PROJECT_DIR$/SlaytonHub/src/SlaytonHub/serverless.template" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -565,7 +564,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583021622623</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="remove s3 deployment">
+      <created>1583022210259</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1583022210259</updated>
+    </task>
+    <task id="LOCAL-00041" summary="remove s3 deployment">
+      <created>1583023270365</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1583023270365</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,7 +615,8 @@
     <MESSAGE value="test build" />
     <MESSAGE value="    test build" />
     <MESSAGE value="Update dotnet lambda deploy cmd in order to address issue finding s3 bucket" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update dotnet lambda deploy cmd in order to address issue finding s3 bucket" />
+    <MESSAGE value="remove s3 deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove s3 deployment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="555" y="181" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578856737043">
@@ -655,19 +669,23 @@
       <screen x="0" y="27" width="1920" height="988" />
     </state>
     <state x="449" y="155" key="SettingsEditor/0.27.1920.988@0.27.1920.988" timestamp="1578804951496" />
-    <state x="320" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1583021626359">
+    <state x="320" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1583023291818">
       <screen x="0" y="27" width="3840" height="988" />
     </state>
     <state x="555" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578881295950" />
-    <state x="320" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.3840.988@0.27.3840.988" timestamp="1583021626359" />
+    <state x="320" y="256" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.3840.988@0.27.3840.988" timestamp="1583023291818" />
     <state x="624" y="202" width="662" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578854647976">
       <screen x="0" y="27" width="1920" height="988" />
     </state>
     <state x="624" y="202" width="662" height="635" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.988/1920.0.1920.1080@0.27.1920.988" timestamp="1578854647976" />
-    <state x="728" y="459" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583016928328">
+    <state x="536" y="225" width="837" height="628" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1583023262457">
       <screen x="0" y="27" width="3840" height="988" />
     </state>
-    <state x="728" y="459" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.3840.988@0.27.3840.988" timestamp="1583016928328" />
+    <state x="536" y="225" width="837" height="628" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.27.3840.988@0.27.3840.988" timestamp="1583023262457" />
+    <state x="728" y="459" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583022584859">
+      <screen x="0" y="27" width="3840" height="988" />
+    </state>
+    <state x="728" y="459" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.3840.988@0.27.3840.988" timestamp="1583022584859" />
     <state x="0" y="183" width="1774" height="706" key="find.popup" timestamp="1583013035552">
       <screen x="0" y="27" width="3840" height="988" />
     </state>
