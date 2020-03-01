@@ -26,4 +26,4 @@ jobs:
     - name: see whats up          
       run: ls
     - name: Release 
-      run: dotnet lambda deploy-serverless -sn SlaytonHub --s3-bucket slaytonhub -sp /SlaytonHub -cfg SlaytonHub/src/SlaytonHub/aws-lambda-tools-defaults.json
+      run: dotnet lambda deploy-serverless -sn SlaytonHub --s3-bucket slaytonhub -sp /SlaytonHub/ -cfg SlaytonHub/src/SlaytonHub/aws-lambda-tools-defaults.json
