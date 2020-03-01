@@ -20,10 +20,6 @@ jobs:
     - name: Install Amazon.Lambda.Tools
       run: |
           dotnet tool install --global Amazon.Lambda.Tools
-          echo "::set-env name=PATH::${PATH}:${HOME}/.dotnet/tools"
-    - name: see whats up          
-      run: pwd
-    - name: see whats up          
-      run: ls
+          echo "::set-env name=PATH::${PATH}:${HOME}/.dotnet/tools"    
     - name: Release 
-      run: dotnet lambda deploy-serverless -sn SlaytonHub --s3-bucket us-east-1-portfolio -sp Portfolio/ -t SlaytonHub/src/SlaytonHub/serverless.template --region us-east-1
+      run: dotnet lambda deploy-serverless --region us-east-1 -sn SlaytonHub --s3-bucket us-east-1-portfolio -sp Portfolio/ -t SlaytonHub/src/SlaytonHub/serverless.template
