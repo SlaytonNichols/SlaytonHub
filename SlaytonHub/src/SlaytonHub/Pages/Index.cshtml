@@ -3,7 +3,11 @@
 @{
     ViewData["Title"] = "Home page";
 }
+
 @section styles{
+    <environment exclude="Development">
+        <base href="https://d1m0vzlwib3qni.cloudfront.net">
+    </environment>
     <!-- Morris chart -->
     <link rel="stylesheet" href="https://d1m0vzlwib3qni.cloudfront.net/lib/morris.js/morris.css">
     <!-- jvectormap -->
@@ -18,6 +22,9 @@
 }
 
 @section Scripts{
+    <environment exclude="Development">
+        <base href="https://d1m0vzlwib3qni.cloudfront.net">
+    </environment>
     <!-- jQuery UI 1.11.4 -->
     <script src="https://d1m0vzlwib3qni.cloudfront.net/lib/jqueryui/jquery-ui.min.js"></script>
 
@@ -47,5 +54,3 @@
 
     </script>
 }
-
-

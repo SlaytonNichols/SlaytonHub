@@ -52,12 +52,12 @@ namespace SlaytonHub.Areas.Template.Pages.Shared
             WriteLiteral("<!DOCTYPE html>\n<html>\n");
             EndContext();
             BeginContext(23, 201, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fd0313db54db4a61a61ae781a9c34509", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bc36fbea2ae3432c8a16a38cadf726b0", async() => {
                 BeginContext(29, 5, true);
                 WriteLiteral("\n    ");
                 EndContext();
                 BeginContext(34, 31, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "a317efeb7e644c73921da0e4b2c80cad", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "b6392a90bd014f19bf6e2f599ffe6f56", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
@@ -101,12 +101,12 @@ Write(RenderSection("styles", required: false));
             WriteLiteral("\n");
             EndContext();
             BeginContext(225, 1785, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f33b3424a41e4622ab502fe6dc70ec11", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b5607087dd74414698d07126e7a06e80", async() => {
                 BeginContext(284, 61, true);
                 WriteLiteral("\n    <!-- Site wrapper -->\n    <div class=\"wrapper\">\n        ");
                 EndContext();
                 BeginContext(345, 33, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "737a1646ab1747adafe57555c9c30738", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "0bee4aa020084e0bb8df7b3192f9d468", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
@@ -125,7 +125,7 @@ Write(RenderSection("styles", required: false));
                 WriteLiteral("\n\n        <!-- =============================================== -->\n        <!-- Left side column. contains the sidebar -->\n        ");
                 EndContext();
                 BeginContext(509, 34, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "6519aa76dd984c499c715c008cdc0098", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "18ef5c3f798843138ac9c85df849ecd9", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
@@ -208,7 +208,7 @@ Write(RenderSection("styles", required: false));
         ");
                 EndContext();
                 BeginContext(1641, 41, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c05506e1ebdb4fd0a34885af04e21447", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "0719883b081a4fa08fa044c1e1a9152a", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();
@@ -227,7 +227,7 @@ Write(RenderSection("styles", required: false));
                 WriteLiteral("\n\n        <!-- /.control-sidebar -->\n        <!-- Add the sidebar\'s background. This div must be placed\n        immediately after the control sidebar -->\n        <div class=\"control-sidebar-bg\"></div>\n    </div>\n    <!-- ./wrapper -->\n    ");
                 EndContext();
                 BeginContext(1921, 34, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "1b7444fb42014a71b7b45c207f901116", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "8f77c5431b4d45e8861416ff29663ebd", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();

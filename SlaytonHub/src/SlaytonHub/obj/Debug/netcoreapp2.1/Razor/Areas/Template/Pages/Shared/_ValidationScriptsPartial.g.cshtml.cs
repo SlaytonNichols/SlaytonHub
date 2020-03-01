@@ -53,7 +53,7 @@ namespace SlaytonHub.Areas.Template.Pages.Shared
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             BeginContext(0, 293, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f81db89b1acf4a8594895098aed2551a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf66ecc46ad648fd88216d2382eb845c", async() => {
                 BeginContext(35, 244, true);
                 WriteLiteral("\n    <script src=\"https://d1m0vzlwib3qni.cloudfront.net/lib/jquery-validation/dist/jquery.validate.js\"></script>\n    <script src=\"https://d1m0vzlwib3qni.cloudfront.net/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js\"></script>\n");
                 EndContext();
@@ -75,12 +75,12 @@ namespace SlaytonHub.Areas.Template.Pages.Shared
             WriteLiteral("\n");
             EndContext();
             BeginContext(294, 906, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "abe092d02d6d4567892a97e3cf381811", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8e1c28ff30124101a09ee0499653f68e", async() => {
                 BeginContext(329, 5, true);
                 WriteLiteral("\n    ");
                 EndContext();
                 BeginContext(334, 381, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "33b9fd18f3d849c4824348fe6ec55614", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "07995d8a301947548181dfecd2eca6d3", async() => {
                     BeginContext(701, 5, true);
                     WriteLiteral("\n    ");
                     EndContext();
@@ -108,7 +108,7 @@ namespace SlaytonHub.Areas.Template.Pages.Shared
                 WriteLiteral("\n    ");
                 EndContext();
                 BeginContext(720, 465, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bb160c8aef3c463cb0e3631e5bf2eb9d", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c5bab99a5e0c481e9fcef45f527da175", async() => {
                     BeginContext(1171, 5, true);
                     WriteLiteral("\n    ");
                     EndContext();

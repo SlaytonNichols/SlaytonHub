@@ -503,7 +503,7 @@ namespace SlaytonHub.Areas.Template.Pages
                 ");
             EndContext();
             BeginContext(15618, 423, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "98591390dcbd46899d385f860e47e5b2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5973d948ec1340b7af43c94b14ef3da2", async() => {
                 BeginContext(15649, 385, true);
                 WriteLiteral(@"
                     <div class=""input-group"">
@@ -623,7 +623,7 @@ namespace SlaytonHub.Areas.Template.Pages
                 ");
             EndContext();
             BeginContext(20447, 423, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a06f1eced98a422e88dd3671ae32a4f2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a29fb40e8fc145ed8c17f0e9921db269", async() => {
                 BeginContext(20478, 385, true);
                 WriteLiteral(@"
                     <div class=""input-group"">
@@ -743,7 +743,7 @@ namespace SlaytonHub.Areas.Template.Pages
                 ");
             EndContext();
             BeginContext(25277, 423, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0fd33ea2e4cb4162b75b6a278dc528c7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae8c4d510f414e79a77269035beb7597", async() => {
                 BeginContext(25308, 385, true);
                 WriteLiteral(@"
                     <div class=""input-group"">
@@ -863,7 +863,7 @@ namespace SlaytonHub.Areas.Template.Pages
                 ");
             EndContext();
             BeginContext(30101, 422, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e00ebcb619c24884889a9e1fc0824f74", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f8b3e62a812f49dc9a466de74d9b826c", async() => {
                 BeginContext(30132, 384, true);
                 WriteLiteral(@"
                     <div class=""input-group"">
@@ -1097,7 +1097,7 @@ namespace SlaytonHub.Areas.Template.Pages
             WriteLiteral("=\"box-footer\">\n                ");
             EndContext();
             BeginContext(39770, 496, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "868a1352bbfb412aa238a84e12d1fa88", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5bc7840a78db4742b7b9deb17d73ed19", async() => {
                 BeginContext(39801, 458, true);
                 WriteLiteral(@"
                     <img class=""img-responsive img-circle img-sm"" src=""https://d1m0vzlwib3qni.cloudfront.net/admin-lte/img/user4-128x128.jpg"" alt=""Alt Text"">
@@ -1233,7 +1233,7 @@ namespace SlaytonHub.Areas.Template.Pages
             WriteLiteral("/.box-footer -->\n            <div class=\"box-footer\">\n                ");
             EndContext();
             BeginContext(45456, 496, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2b90aa9ba0d8497981a6cb4a588f28c3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7486e1dcd87241b4bf66e4d9cb8b64af", async() => {
                 BeginContext(45487, 458, true);
                 WriteLiteral(@"
                     <img class=""img-responsive img-circle img-sm"" src=""https://d1m0vzlwib3qni.cloudfront.net/admin-lte/img/user4-128x128.jpg"" alt=""Alt Text"">

@@ -69,7 +69,7 @@ using Microsoft.AspNetCore.Http.Features;
             WriteLiteral("    <div id=\"cookieConsent\" class=\"alert alert-info alert-dismissible fade show\" role=\"alert\">\n        Use this space to summarize your privacy and cookie use policy. ");
             EndContext();
             BeginContext(428, 37, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9f01b25b8ff241baa2d92ffdf89eb7eb", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "01f3522da6dd48e6ad1c2f65b2e07bf9", async() => {
                 BeginContext(451, 10, true);
                 WriteLiteral("Learn More");
                 EndContext();

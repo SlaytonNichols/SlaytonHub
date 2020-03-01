@@ -97,7 +97,7 @@ using Microsoft.AspNetCore.Http.Extensions;
         ");
             EndContext();
             BeginContext(867, 462, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dafb8d2649de46328c6c3e6b263d5068", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "416c9c4c9fc54deda9174c3a9b23aec0", async() => {
                 BeginContext(918, 404, true);
                 WriteLiteral(@"
             <div class=""input-group"">
@@ -145,7 +145,7 @@ using Microsoft.AspNetCore.Http.Extensions;
                     <li>");
             EndContext();
             BeginContext(1912, 68, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "faac65a428274e4e97160385da1e8926", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "24703ac4872a44d49b0e05116fdeddab", async() => {
                 BeginContext(1933, 43, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Dashboard v1");
                 EndContext();
@@ -167,7 +167,7 @@ using Microsoft.AspNetCore.Http.Extensions;
             WriteLiteral("</li>\n                    <li>");
             EndContext();
             BeginContext(2010, 69, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fce6497ad8cd4c56baea83372aceeea7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c74b262be6be40a092c846733deb0c09", async() => {
                 BeginContext(2032, 43, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Dashboard v2");
                 EndContext();
@@ -219,7 +219,7 @@ WriteAttributeValue("", 2567, IsActivePage("Topnav"), 2567, 23, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(2592, 78, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cb8af2e8ab6412eaebc851792508116", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "af309d3b7f70497e8ee8d0a7b8925d56", async() => {
                 BeginContext(2621, 45, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Top Navigation");
                 EndContext();
@@ -251,7 +251,7 @@ WriteAttributeValue("", 2707, IsActivePage("Boxed"), 2707, 22, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(2731, 68, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0d1f43682852444fb758c21d914b1c73", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1814707689504061a3a1ab5a439a6640", async() => {
                 BeginContext(2759, 36, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Boxed");
                 EndContext();
@@ -283,7 +283,7 @@ WriteAttributeValue("", 2836, IsActivePage("Fixed"), 2836, 22, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(2860, 68, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "abfc9d0b9a404654bc9dc14d45cb2a1d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d2a9b548b0ab4d1cbe802ca5b271c4da", async() => {
                 BeginContext(2888, 36, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Fixed");
                 EndContext();
@@ -315,7 +315,7 @@ WriteAttributeValue("", 2965, IsActivePage("Collapsed"), 2965, 26, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(2993, 92, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3a49cd4fab794ababf213e2c94f0eea2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "aadecf71f81d4ce6896f00fa496723e5", async() => {
                 BeginContext(3033, 48, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Collapsed Sidebar");
                 EndContext();
@@ -347,7 +347,7 @@ WriteAttributeValue("", 3154, IsActivePage("Widgets"), 3154, 24, false);
             WriteLiteral(">\n                ");
             EndContext();
             BeginContext(3197, 271, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "659b86daa2084c39877bfe1399eb81ab", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f9410fcb46ff402ba5aab80349cd5aa4", async() => {
                 BeginContext(3220, 244, true);
                 WriteLiteral("\n                    <i class=\"fa fa-th\"></i> <span>Widgets</span>\n                    <span class=\"pull-right-container\">\n                        <small class=\"label pull-right bg-green\">Hot</small>\n                    </span>\n                ");
                 EndContext();
@@ -399,7 +399,7 @@ WriteAttributeValue("", 3913, IsActivePage("ChartJs"), 3913, 24, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(3939, 72, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7060bbc2d7544d4090d3a7c65757b473", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ea2b13510c944c109a4d7d4dc4f7bd30", async() => {
                 BeginContext(3969, 38, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> ChartJS");
                 EndContext();
@@ -431,7 +431,7 @@ WriteAttributeValue("", 4048, IsActivePage("Morris"), 4048, 23, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(4073, 70, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1671ab4554fe4fea8d564a093622c6ed", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8bd50c884ae6496297f6fd1793f46d15", async() => {
                 BeginContext(4102, 37, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Morris");
                 EndContext();
@@ -463,7 +463,7 @@ WriteAttributeValue("", 4180, IsActivePage("Flot"), 4180, 21, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(4203, 66, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2252c39e83f74f469f00d9d98669e077", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "70c6e295471e437d8eacc520eb57c47d", async() => {
                 BeginContext(4230, 35, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Flot");
                 EndContext();
@@ -495,7 +495,7 @@ WriteAttributeValue("", 4306, IsActivePage("Inline"), 4306, 23, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(4331, 77, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a239017755aa4c449fe5bb254f217d43", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d497329306fa45c98eda5f653b99d4b8", async() => {
                 BeginContext(4360, 44, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Inline charts");
                 EndContext();
@@ -547,7 +547,7 @@ WriteAttributeValue("", 4878, IsActivePage("General"), 4878, 24, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(4904, 68, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b62ac4d5e27b412ca912adad89ab5f26", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "422bab31af93445e9ebc8d1cb8431445", async() => {
                 BeginContext(4930, 38, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> General");
                 EndContext();
@@ -579,7 +579,7 @@ WriteAttributeValue("", 5009, IsActivePage("Icons"), 5009, 22, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(5033, 64, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0b34317888c34a049bef184bc7a3f1f4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7152bc9fb0a7479da4ffb9c6752fb354", async() => {
                 BeginContext(5057, 36, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Icons");
                 EndContext();
@@ -611,7 +611,7 @@ WriteAttributeValue("", 5134, IsActivePage("Buttons"), 5134, 24, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(5160, 68, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "810b4187451a472fbf4704f471599544", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7bfd8bf167c845648bbfd89a7eb3cf87", async() => {
                 BeginContext(5186, 38, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Buttons");
                 EndContext();
@@ -643,7 +643,7 @@ WriteAttributeValue("", 5265, IsActivePage("Sliders"), 5265, 24, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(5291, 68, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "526994a662b1442eaab2f0b43f47e851", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2d8681ab62a84bf6977978a31f8c8349", async() => {
                 BeginContext(5317, 38, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Sliders");
                 EndContext();
@@ -675,7 +675,7 @@ WriteAttributeValue("", 5396, IsActivePage("Timeline"), 5396, 25, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(5423, 70, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "24f35fda39a34b38a8ee42be4d581105", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b58d5964341d4a6397c675164d02fd0c", async() => {
                 BeginContext(5450, 39, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Timeline");
                 EndContext();
@@ -707,7 +707,7 @@ WriteAttributeValue("", 5530, IsActivePage("Modals"), 5530, 23, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(5555, 66, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5c8f344b36774f00b9db3b313658153c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "311f120413f2478391c24fc2772445a5", async() => {
                 BeginContext(5580, 37, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Modals");
                 EndContext();
@@ -758,7 +758,7 @@ WriteAttributeValue("", 6066, IsActivePage("General"), 6066, 24, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(6092, 80, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c54705a06e354c78a80dfcb402715572", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "aef77570b73e4aeb986edb8f8312b2af", async() => {
                 BeginContext(6121, 47, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> General Elements");
                 EndContext();
@@ -790,7 +790,7 @@ WriteAttributeValue("", 6209, IsActivePage("Advanced"), 6209, 25, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(6236, 82, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e57cc523673d448a8cd7bba89f19408e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "384684c49e9246cc8576983036f238f5", async() => {
                 BeginContext(6266, 48, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Advanced Elements");
                 EndContext();
@@ -841,7 +841,7 @@ WriteAttributeValue("", 6870, IsActivePage("Simple"), 6870, 23, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(6895, 77, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "72fc8ea553624e1f82c4697fb577a731", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b9e0e240b41e4ad687fc3045e27f4f77", async() => {
                 BeginContext(6924, 44, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Simple tables");
                 EndContext();
@@ -873,7 +873,7 @@ WriteAttributeValue("", 7009, IsActivePage("Data"), 7009, 21, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(7032, 73, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "907f96c527f84e70a11ba7042986ce08", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6745f439c5fa4d0bb3b6c611b0c9dbf6", async() => {
                 BeginContext(7059, 42, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Data tables");
                 EndContext();
@@ -905,7 +905,7 @@ WriteAttributeValue("", 7174, IsActivePage("Calendar"), 7174, 25, false);
             WriteLiteral(">\n                ");
             EndContext();
             BeginContext(7218, 350, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "26411aabd2ac43d3a6889ff1814c99d3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c4e0a86581394e2fb19a57d1f72a92e6", async() => {
                 BeginContext(7242, 322, true);
                 WriteLiteral(@"
                     <i class=""fa fa-calendar""></i> <span>Calendar</span>
@@ -943,7 +943,7 @@ WriteAttributeValue("", 7610, IsActivePage("Mailbox"), 7610, 24, false);
             WriteLiteral(">\n                ");
             EndContext();
             BeginContext(7653, 434, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fafae184decf4d0588e77b431b0e768b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "be31ffa68e2a4469b67ba85d299298ac", async() => {
                 BeginContext(7684, 399, true);
                 WriteLiteral(@"
                     <i class=""fa fa-envelope""></i> <span>Mailbox</span>
@@ -1001,7 +1001,7 @@ WriteAttributeValue("", 8513, IsActivePage("Invoice"), 8513, 24, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(8539, 74, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "523c4ccfe56c4b139d36b72688e65027", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7386fee7e9d741b98bc9c18d895a0798", async() => {
                 BeginContext(8571, 38, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Invoice");
                 EndContext();
@@ -1033,7 +1033,7 @@ WriteAttributeValue("", 8650, IsActivePage("Profile"), 8650, 24, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(8676, 74, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "00e6c618fdb944018b936eb06e8342ea", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a17abb8f68744e7ab65d0b54d0e8e3b8", async() => {
                 BeginContext(8708, 38, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Profile");
                 EndContext();
@@ -1069,7 +1069,7 @@ WriteAttributeValue("", 9076, IsActivePage("Error404"), 9076, 25, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(9103, 77, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "726ecc603dda4318bd16293a4a430c70", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b491bbba6f954be091d21de550ac4e62", async() => {
                 BeginContext(9136, 40, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> 404 Error");
                 EndContext();
@@ -1101,7 +1101,7 @@ WriteAttributeValue("", 9217, IsActivePage("Error500"), 9217, 25, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(9244, 77, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b3b0a0d610764d0aa5af40e5d9628199", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3aee41cd9d234c4ab4029484ef237fd2", async() => {
                 BeginContext(9277, 40, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> 500 Error");
                 EndContext();
@@ -1133,7 +1133,7 @@ WriteAttributeValue("", 9358, IsActivePage("Blank"), 9358, 22, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(9382, 75, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1f89a8669c2f4c898143977275db82ff", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "71c684e8f90640ad95a34e37d7d536af", async() => {
                 BeginContext(9412, 41, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Blank Page");
                 EndContext();
@@ -1165,7 +1165,7 @@ WriteAttributeValue("", 9494, IsActivePage("Pace"), 9494, 21, false);
             WriteLiteral(">");
             EndContext();
             BeginContext(9517, 73, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2d5624acc61e4e75840b6219ce995e7a", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bda2964494f046ffb5a3380be75420bd", async() => {
                 BeginContext(9546, 40, true);
                 WriteLiteral("<i class=\"fa fa-circle-o\"></i> Pace Page");
                 EndContext();
